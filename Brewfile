@@ -14,6 +14,7 @@ cask processing
 cask silverlight
 cask the-unarchiver
 cask wineskin-winery
+cask xquartz
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -71,6 +72,7 @@ brew readline
 brew rtmpdump
 brew ruby-build
 brew texi2html
+brew vim
 brew webp
 brew x264
 brew x265
