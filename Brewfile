@@ -60,6 +60,7 @@ brew libtiff
 brew libvo-aacenc
 brew lua
 brew mpfr
+brew nkf
 brew openssl
 brew pango
 brew perl-build
