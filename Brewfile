@@ -4,7 +4,10 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask appcleaner
 cask aquaterm
+cask audacity
+cask emacs
 cask gimp
 cask insomniax
 cask linein
@@ -12,7 +15,10 @@ cask mi
 cask opera
 cask processing
 cask silverlight
+cask sophos-anti-virus-home-edition
+cask switch
 cask the-unarchiver
+cask transmission
 cask wineskin-winery
 cask xquartz
 
@@ -37,7 +43,7 @@ brew automake
 brew cairo
 brew ecj
 brew faac
-brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
+brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
 brew fontconfig
 brew freetype
 brew gcc
@@ -79,7 +85,7 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl --with-rtmpdump --with-rtmpdump
+brew youtube-dl --with-rtmpdump
 
 # App Store applications
 appstore GarageBand
