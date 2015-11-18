@@ -7,6 +7,7 @@ brew brew-cask
 cask appcleaner
 cask aquaterm
 cask audacity
+cask dropbox
 cask emacs
 cask gimp
 cask insomniax
