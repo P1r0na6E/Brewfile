@@ -65,7 +65,9 @@ brew libffi
 brew libmpc
 brew libpng
 brew libtiff
+brew libtool
 brew libvo-aacenc
+brew little-cms2
 brew lua
 brew mpfr
 brew nkf
