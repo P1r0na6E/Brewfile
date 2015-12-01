@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask adobe-reader
 cask appcleaner
 cask aquaterm
 cask audacity
@@ -14,12 +15,14 @@ cask insomniax
 cask linein
 cask mi
 cask opera
+cask osxfuse
 cask processing
 cask silverlight
 cask sophos-anti-virus-home-edition
 cask switch
 cask the-unarchiver
 cask transmission
+cask virtualbox
 cask wineskin-winery
 cask xquartz
 
@@ -44,7 +47,7 @@ brew automake
 brew cairo
 brew ecj
 brew faac
-brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
+brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
 brew fontconfig
 brew freetype
 brew gcc
