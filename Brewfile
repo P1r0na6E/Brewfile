@@ -16,8 +16,10 @@ cask linein
 cask mi
 cask opera
 cask osxfuse
+cask powerphotos
 cask processing
 cask silverlight
+cask skala-preview
 cask sophos-anti-virus-home-edition
 cask soundflower
 cask switch
@@ -96,7 +98,7 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl --with-rtmpdump
+brew youtube-dl --with-rtmpdump --with-rtmpdump
 
 # App Store applications
 appstore GarageBand
