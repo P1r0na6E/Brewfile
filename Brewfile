@@ -19,12 +19,16 @@ cask osxfuse
 cask processing
 cask silverlight
 cask sophos-anti-virus-home-edition
+cask soundflower
 cask switch
 cask the-unarchiver
 cask transmission
 cask virtualbox
 cask wineskin-winery
 cask xquartz
+
+## caskroom/versions
+tap caskroom/versions
 
 ## homebrew/dupes
 tap homebrew/dupes
