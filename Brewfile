@@ -16,10 +16,8 @@ cask linein
 cask mi
 cask opera
 cask osxfuse
-cask powerphotos
 cask processing
 cask silverlight
-cask skala-preview
 cask sophos-anti-virus-home-edition
 cask soundflower
 cask switch
