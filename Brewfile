@@ -61,7 +61,7 @@ brew ghostscript --with-x11
 brew git
 brew glib
 brew gmp
-brew gnuplot --with-aquaterm --with-cairo --with-latex --with-x11
+brew gnuplot --with-aquaterm --with-cairo --with-latex --with-x11 --with-aquaterm --with-cairo --with-latex --with-x11
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
