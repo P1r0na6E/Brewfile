@@ -18,7 +18,6 @@ cask opera
 cask osxfuse
 cask processing
 cask silverlight
-cask sophos-anti-virus-home-edition
 cask soundflower
 cask switch
 cask the-unarchiver
@@ -96,7 +95,12 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl --with-rtmpdump
+brew youtube-dl --with-rtmpdump --with-rtmpdump
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask sophos-anti-virus-home-edition (!)
 
 # App Store applications
 appstore GarageBand
