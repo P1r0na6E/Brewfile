@@ -75,6 +75,7 @@ brew libtool
 brew libvo-aacenc
 brew little-cms2
 brew lua
+brew makedepend
 brew mpfr
 brew nkf
 brew openssl
@@ -95,7 +96,7 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl --with-rtmpdump
+brew youtube-dl --with-rtmpdump --with-rtmpdump
 
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
