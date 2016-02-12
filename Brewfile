@@ -41,6 +41,7 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew automake
+brew brew-gem
 brew cairo
 brew ecj
 brew faac
