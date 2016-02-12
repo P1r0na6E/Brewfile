@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 cask adobe-reader
 cask appcleaner
@@ -25,13 +24,10 @@ cask virtualbox
 cask wineskin-winery
 cask xquartz
 
-## caskroom/versions
 tap caskroom/versions
 
-## homebrew/dupes
 tap homebrew/dupes
 
-## homebrew/versions
 tap homebrew/versions
 brew cloog018
 brew gmp4
@@ -39,7 +35,6 @@ brew isl011
 brew libmpc08
 brew mpfr2
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
