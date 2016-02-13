@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 cask adobe-reader
 cask appcleaner
@@ -92,8 +95,3 @@ brew x265
 brew xvid
 brew yasm
 brew youtube-dl --with-rtmpdump
-
-# App Store applications
-appstore GarageBand
-appstore iMovie
-appstore Xcode
