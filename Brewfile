@@ -30,6 +30,7 @@ cask xquartz
 tap caskroom/versions
 
 tap homebrew/dupes
+brew m4
 
 tap homebrew/versions
 brew cloog018
@@ -46,6 +47,7 @@ brew autoconf
 brew automake
 brew brew-gem
 brew cairo
+brew cmake
 brew ecj
 brew faac
 brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
