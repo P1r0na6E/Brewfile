@@ -60,7 +60,7 @@ brew ghostscript --with-x11
 brew git
 brew glib
 brew gmp
-brew gnuplot --with-aquaterm --with-cairo --with-latex --with-x11
+brew gnuplot --with-aquaterm --with-cairo --with-latex --with-x11 --with-aquaterm --with-cairo --with-x11 --with-tex
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
@@ -100,4 +100,5 @@ brew youtube-dl --with-rtmpdump
 
 # App Store applications
 appstore 497799835 Xcode
+appstore 408981434 iMovie
 appstore 408981434 iMovie 9.0.3
