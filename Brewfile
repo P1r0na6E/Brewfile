@@ -50,7 +50,7 @@ brew cairo
 brew cmake
 brew ecj
 brew faac
-brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
+brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
 brew fontconfig
 brew freetype
 brew gcc
