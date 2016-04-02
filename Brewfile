@@ -29,20 +29,7 @@ cask xquartz
 
 tap caskroom/versions
 
-tap homebrew/dupes
-brew m4
-
-tap homebrew/versions
-brew cloog018
-brew gmp4
-brew isl011
-brew libmpc08
-brew mpfr2
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew autoconf
 brew automake
 brew brew-gem
@@ -58,7 +45,6 @@ brew gd
 brew gettext
 brew ghostscript --with-x11
 brew git
-brew glib
 brew gmp
 brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
 brew gobject-introspection
@@ -76,7 +62,6 @@ brew libvo-aacenc
 brew little-cms2
 brew lua
 brew makedepend
-brew mpfr
 brew nkf
 brew openssl
 brew pango
@@ -97,6 +82,23 @@ brew x265
 brew xvid
 brew yasm
 brew youtube-dl --with-rtmpdump
+
+tap homebrew/dupes
+brew m4
+
+tap homebrew/versions
+brew cloog018
+brew gmp4
+brew isl011
+brew libmpc08
+brew mpfr2
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew glib
+brew mpfr
 
 # App Store applications
 appstore 497799835 Xcode
