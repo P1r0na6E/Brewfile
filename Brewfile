@@ -81,7 +81,7 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl --with-rtmpdump --with-rtmpdump
+brew youtube-dl --with-rtmpdump
 
 tap homebrew/dupes
 brew m4
