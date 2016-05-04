@@ -92,6 +92,9 @@ brew isl011
 brew libmpc08
 brew mpfr2
 
+tap rcmdnk/file
+brew brew-file
+
 # Other Homebrew packages
 brew glib
 brew mpfr
