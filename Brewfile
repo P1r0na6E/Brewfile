@@ -13,7 +13,6 @@ cask dropbox
 cask emacs
 cask gimp
 cask insomniax
-cask linein
 cask mi
 cask opera
 cask osxfuse
@@ -92,9 +91,6 @@ brew gmp4
 brew isl011
 brew libmpc08
 brew mpfr2
-
-tap rcmdnk/file
-brew brew-file
 
 # Other Homebrew packages
 brew glib
