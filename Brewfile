@@ -13,6 +13,7 @@ cask dropbox
 cask emacs
 cask gimp
 cask insomniax
+cask linein
 cask mi
 cask opera
 cask osxfuse
