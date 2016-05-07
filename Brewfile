@@ -13,6 +13,7 @@ cask dropbox
 cask emacs
 cask gimp
 cask insomniax
+cask linein
 cask mi
 cask opera
 cask osxfuse
@@ -36,16 +37,16 @@ brew cairo
 brew cmake
 brew ecj
 brew faac
-brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
+brew ffmpeg
 brew fontconfig
 brew freetype
 brew gcc
 brew gd
 brew gettext
-brew ghostscript --with-x11
+brew ghostscript
 brew git
 brew gmp
-brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
+brew gnuplot
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
@@ -80,7 +81,7 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl --with-rtmpdump
+brew youtube-dl
 
 tap homebrew/dupes
 brew m4
