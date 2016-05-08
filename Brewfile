@@ -37,16 +37,16 @@ brew cairo
 brew cmake
 brew ecj
 brew faac
-brew ffmpeg
+brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
 brew fontconfig
 brew freetype
 brew gcc
 brew gd
 brew gettext
-brew ghostscript
+brew ghostscript --with-x11 --HEAD
 brew git
 brew gmp
-brew gnuplot
+brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
@@ -81,7 +81,7 @@ brew x264
 brew x265
 brew xvid
 brew yasm
-brew youtube-dl
+brew youtube-dl --with-rtmpdump
 
 tap homebrew/dupes
 brew m4
