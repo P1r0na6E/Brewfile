@@ -15,6 +15,7 @@ cask gimp
 cask insomniax
 cask linein
 cask mi
+cask onyx
 cask opera
 cask osxfuse
 cask processing
