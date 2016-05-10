@@ -45,6 +45,7 @@ brew gd
 brew gettext
 brew ghostscript --with-x11 --HEAD
 brew git
+brew glib
 brew gmp
 brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
 brew gobject-introspection
@@ -62,6 +63,7 @@ brew libvo-aacenc
 brew little-cms2
 brew lua
 brew makedepend
+brew mpfr
 brew nkf
 brew openssl
 brew pango
@@ -95,10 +97,6 @@ brew mpfr2
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew glib
-brew mpfr
 
 # App Store applications
 appstore 497799835 Xcode
