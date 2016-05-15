@@ -105,8 +105,6 @@ brew texi2html
 brew unrar
 brew vim
 brew webp
-brew wine
-brew winetricks --with-zenity
 brew x264
 brew x265
 brew xvid
