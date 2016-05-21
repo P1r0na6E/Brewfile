@@ -103,7 +103,6 @@ brew scrollkeeper
 brew sqlite
 brew texi2html
 brew unrar
-brew vim
 brew webp
 brew x264
 brew x265
