@@ -11,13 +11,13 @@ cask aquaterm
 cask audacity
 cask dropbox
 cask emacs
+cask flip4mac
 cask gimp
 cask insomniax
 cask linein
 cask mi
 cask onyx
 cask opera
-cask osxfuse
 cask processing
 cask silverlight
 cask soundflower
