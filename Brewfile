@@ -7,12 +7,14 @@ brew mas
 tap caskroom/cask
 cask adobe-reader
 cask appcleaner
+cask application-loader
 cask aquaterm
 cask audacity
 cask dropbox
 cask emacs
 cask flip4mac
 cask gimp
+cask imagej
 cask insomniax
 cask linein
 cask mi
