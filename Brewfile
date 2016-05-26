@@ -16,6 +16,7 @@ cask flip4mac
 cask gimp
 cask imagej
 cask insomniax
+cask java
 cask linein
 cask mi
 cask onyx
