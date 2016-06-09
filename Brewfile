@@ -65,6 +65,7 @@ brew gtk+3
 brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
+brew imagemagick --HEAD
 brew isl
 brew jasper
 brew jpeg
@@ -110,6 +111,7 @@ brew webp
 brew x264
 brew x265
 brew xvid
+brew xz
 brew yasm
 brew youtube-dl --with-rtmpdump
 brew zenity
