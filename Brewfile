@@ -65,7 +65,7 @@ brew gtk+3
 brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
-brew imagemagick --HEAD
+brew imagemagick --with-ghostscript --with-x11 --with-perl --HEAD
 brew isl
 brew jasper
 brew jpeg
