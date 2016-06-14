@@ -129,6 +129,20 @@ brew mpfr2
 tap rcmdnk/file
 brew brew-file
 
+# Cask applications
+cask   --caskroom=/opt/homebrew-cask/Caskroom
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Warning: The default Caskroom location has moved to /usr/local/Caskroom.
+#cask 
+#cask Please migrate your Casks to the new location, or if you would like to keep your
+#cask Caskroom at /opt/homebrew-cask/Caskroom, add the following to your HOMEBREW_CASK_OPTS:
+#cask 
+#cask 
+#cask For more details on each of those options, see https://github.com/caskroom/homebrew-cask/issues/21913.
+
 # App Store applications
 appstore 497799835 Xcode
 appstore 408981434 iMovie
