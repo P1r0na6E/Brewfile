@@ -92,6 +92,7 @@ brew nkf
 brew openssl
 brew p7zip
 brew pango
+brew pcre
 brew perl-build
 brew pixman
 brew pkg-config
