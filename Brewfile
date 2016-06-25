@@ -87,6 +87,7 @@ brew little-cms2
 brew lua
 brew makedepend
 brew mpfr
+brew mplayer --with-libcaca --HEAD
 brew nettle
 brew nkf
 brew openssl
