@@ -70,6 +70,7 @@ brew isl
 brew jasper
 brew jpeg
 brew lame
+brew libcaca
 brew libepoxy
 brew libffi
 brew libgphoto2
