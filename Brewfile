@@ -44,7 +44,7 @@ brew cmake
 brew docbook
 brew ecj
 brew faac
-brew ffmpeg --with-faac --with-fontconfig --with-x265 --with-webp --with-openssl
+brew ffmpeg
 brew fontconfig
 brew freetype
 brew gcc
