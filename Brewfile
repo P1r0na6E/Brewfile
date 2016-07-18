@@ -47,6 +47,7 @@ brew faac
 brew fdk-aac
 brew ffmpeg --with-faac --with-ffplay --with-libcaca --with-libssh --with-openjpeg --with-openssl --with-tools --with-webp --with-xz --with-x265 --with-zimg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-opus --HEAD
 brew fontconfig
+brew fonttools --HEAD
 brew freetype
 brew fribidi
 brew gcc
@@ -144,6 +145,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 647697434 Free Fonts
 appstore 497799835 Xcode
 appstore 408981434 iMovie
 appstore 408981434 iMovie 9.0.3
