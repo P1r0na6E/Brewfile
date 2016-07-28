@@ -92,8 +92,10 @@ brew libvo-aacenc
 brew libvorbis
 brew libvpx
 brew libxml2
+brew libyaml
 brew little-cms2
 brew lua
+brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
@@ -106,6 +108,7 @@ brew p7zip
 brew pango
 brew pcre
 brew perl-build
+brew perl
 brew pixman
 brew pkg-config
 brew plenv
@@ -115,12 +118,14 @@ brew rbenv
 brew readline
 brew rtmpdump
 brew ruby-build
+brew ruby
 brew sane-backends
 brew scrollkeeper
 brew sdl
 brew sqlite
 brew texi2html
 brew unrar
+brew vim --with-lua --with-luajit --with-override-system-vi --with-python3 --with-tcl
 brew webp
 brew x264
 brew x265
