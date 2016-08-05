@@ -45,7 +45,7 @@ brew docbook
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-faac --with-ffplay --with-libcaca --with-libssh --with-openjpeg --with-openssl --with-tools --with-webp --with-xz --with-x265 --with-zimg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-opus --HEAD
+brew ffmpeg --with-faac --with-ffplay --with-libcaca --with-libssh --with-openjpeg --with-openssl --with-tools --with-webp --with-xz --with-x265 --with-zimg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-opus
 brew fontconfig
 brew fonttools --HEAD
 brew freetype
