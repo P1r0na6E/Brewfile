@@ -112,6 +112,7 @@ brew perl
 brew pixman
 brew pkg-config
 brew plenv
+brew pstree
 brew pyenv
 brew python
 brew rbenv
