@@ -86,8 +86,8 @@ brew libssh
 brew libtasn1
 brew libtiff
 brew libtool
-brew libusb-compat
 brew libusb
+brew libusb-compat
 brew libvo-aacenc
 brew libvorbis
 brew libvpx
@@ -107,8 +107,8 @@ brew opus
 brew p7zip
 brew pango
 brew pcre
-brew perl-build
 brew perl
+brew perl-build
 brew pixman
 brew pkg-config
 brew plenv
@@ -118,8 +118,8 @@ brew python
 brew rbenv
 brew readline
 brew rtmpdump
-brew ruby-build
 brew ruby
+brew ruby-build
 brew sane-backends
 brew scrollkeeper
 brew sdl
