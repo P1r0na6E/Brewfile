@@ -42,6 +42,7 @@ brew cabextract
 brew cairo
 brew cmake
 brew docbook
+brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
@@ -123,6 +124,7 @@ brew ruby-build
 brew sane-backends
 brew scrollkeeper
 brew sdl
+brew sphinx-doc
 brew sqlite
 brew texi2html
 brew unrar
@@ -152,6 +154,5 @@ brew brew-file
 
 # App Store applications
 appstore 647697434 Free Fonts
-appstore 497799835 Xcode
 appstore 408981434 iMovie
 appstore 408981434 iMovie 9.0.3
