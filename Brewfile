@@ -154,5 +154,6 @@ brew brew-file
 
 # App Store applications
 appstore 647697434 Free Fonts
+appstore 497799835 Xcode
 appstore 408981434 iMovie
 appstore 408981434 iMovie 9.0.3
