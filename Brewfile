@@ -124,7 +124,6 @@ brew ruby-build
 brew sane-backends
 brew scrollkeeper
 brew sdl
-brew sphinx-doc
 brew sqlite
 brew texi2html
 brew unrar
