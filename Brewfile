@@ -37,6 +37,7 @@ tap homebrew/core
 brew atk
 brew autoconf
 brew automake
+brew bash
 brew brew-gem
 brew cabextract
 brew cairo
