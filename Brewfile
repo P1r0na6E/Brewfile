@@ -101,6 +101,7 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
+brew net-snmp
 brew nettle
 brew nkf
 brew openjpeg
