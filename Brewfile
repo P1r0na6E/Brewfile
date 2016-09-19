@@ -2,29 +2,45 @@
 # tap repositories and their packages
 
 tap argon/mas
+brew mas
 
 tap caskroom/cask
+cask adobe-reader
+cask appcleaner
+cask application-loader
+cask aquaterm
+cask audacity
+cask dropbox
+cask emacs
+cask flip4mac
+cask gimp
+cask imagej
+cask insomniax
+cask java
+cask linein
+cask mi
+cask onyx
+cask opera
+cask processing
+cask silverlight
+cask soundflower
+cask switch
+cask the-unarchiver
+cask transmission
+cask virtualbox
+cask wineskin-winery
+cask xquartz
 
 tap caskroom/versions
 
 tap homebrew/core
-
-tap homebrew/dupes
-
-tap homebrew/versions
-
-tap rcmdnk/file
-
-# Other Homebrew packages
 brew atk
 brew autoconf
 brew automake
 brew bash
-brew brew-file
 brew brew-gem
 brew cabextract
 brew cairo
-brew cloog018
 brew cmake
 brew docbook
 brew doxygen
@@ -45,7 +61,6 @@ brew ghostscript --with-x11 --HEAD
 brew git
 brew glib
 brew gmp
-brew gmp4
 brew gnome-doc-utils
 brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
 brew gnutls
@@ -57,7 +72,6 @@ brew hicolor-icon-theme
 brew icu4c
 brew imagemagick --with-ghostscript --with-x11 --with-perl --HEAD
 brew isl
-brew isl011
 brew jasper
 brew jpeg
 brew lame
@@ -68,7 +82,6 @@ brew libffi
 brew libgphoto2
 brew libicns
 brew libmpc
-brew libmpc08
 brew libogg
 brew libpng
 brew libssh
@@ -85,11 +98,8 @@ brew libyaml
 brew little-cms2
 brew lua
 brew luajit
-brew m4
 brew makedepend
-brew mas
 brew mpfr
-brew mpfr2
 brew mplayer --with-libcaca --HEAD
 brew net-snmp
 brew nettle
@@ -130,32 +140,18 @@ brew youtube-dl --with-rtmpdump
 brew zenity
 brew zimg
 
-# Cask applications
-cask adobe-reader
-cask appcleaner
-cask application-loader
-cask aquaterm
-cask audacity
-cask dropbox
-cask emacs
-cask flip4mac
-cask gimp
-cask imagej
-cask insomniax
-cask java
-cask linein
-cask mi
-cask onyx
-cask opera
-cask processing
-cask silverlight
-cask soundflower
-cask switch
-cask the-unarchiver
-cask transmission
-cask virtualbox
-cask wineskin-winery
-cask xquartz
+tap homebrew/dupes
+brew m4
+
+tap homebrew/versions
+brew cloog018
+brew gmp4
+brew isl011
+brew libmpc08
+brew mpfr2
+
+tap rcmdnk/file
+brew brew-file
 
 # App Store applications
 appstore 647697434 Free Fonts
