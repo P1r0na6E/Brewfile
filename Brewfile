@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask adobe-reader
 cask appcleaner
 cask aquaterm
 cask audacity
