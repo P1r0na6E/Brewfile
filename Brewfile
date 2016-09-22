@@ -26,6 +26,7 @@ cask switch
 cask the-unarchiver
 cask transmission
 cask virtualbox
+cask vivaldi
 cask wineskin-winery
 cask xquartz
 
