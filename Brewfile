@@ -152,7 +152,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 647697434 Free Fonts
-appstore 497799835 Xcode
-appstore 408981434 iMovie
-appstore 408981434 iMovie 9.0.3
+appstore 647697434 Free Fonts (6.0)
+appstore 497799835 Xcode (8.0)
+appstore 408981434 iMovie (10.1.2)
+appstore 408981434 iMovie 9.0.3 (9.0.3)
