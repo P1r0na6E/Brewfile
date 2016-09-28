@@ -45,7 +45,7 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-faac --with-ffplay --with-libcaca --with-libssh --with-openjpeg --with-openssl --with-tools --with-webp --with-xz --with-x265 --with-zimg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-opus
+brew ffmpeg --with-faac --with-ffplay --with-libcaca --with-libssh --with-openjpeg --with-openssl --with-tools --with-webp --with-xz --with-x265 --with-zimg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-opus --HEAD
 brew fontconfig
 brew fonttools --HEAD
 brew freetype
@@ -55,7 +55,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
-brew ghostscript --with-x11 --HEAD
+brew ghostscript --with-x11
 brew git
 brew glib
 brew gmp
@@ -104,6 +104,7 @@ brew nettle
 brew nkf
 brew openjpeg
 brew openssl
+brew openssl@1.1
 brew opus
 brew p7zip
 brew pango
