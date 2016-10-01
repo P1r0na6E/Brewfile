@@ -1,18 +1,6 @@
 
 # tap repositories and their packages
 
-tap ==> Homebrew has enabled anonymous aggregate user behaviour analytics
-
-tap Read the analytics documentation (and how to opt-out) here:
-
-tap   https://git.io/brew-analytics
-
-tap ==> Auto-updated Homebrew!
-
-tap Updated 1 tap (homebrew/core).
-
-tap No changes to formulae.
-
 tap argon/mas
 brew mas
 
