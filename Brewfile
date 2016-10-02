@@ -104,6 +104,7 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
+brew nasm --universal
 brew net-snmp
 brew nettle
 brew nkf
