@@ -13,7 +13,6 @@ cask emacs
 cask flip4mac
 cask gimp
 cask imagej
-cask insomniax
 cask java
 cask linein
 cask mi
@@ -45,9 +44,11 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-faac --with-ffplay --with-libcaca --with-libssh --with-openjpeg --with-openssl --with-tools --with-webp --with-xz --with-x265 --with-zimg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-opus --HEAD
+brew ffmpeg --with-faac --with-fdk-aac --with-ffplay --with-fontconfig --with-freetype --with-libass --with-libbluray --with-libbs2b --with-libcaca --with-libssh --with-libvorbis --with-libvpx --with-openh264 --with-openjpeg --with-openssl --with-opus --with-rtmpdump --with-schroedinger --with-tools --with-webp --with-x265 --with-xz --with-zimg
+brew fftw
+brew flac
 brew fontconfig
-brew fonttools --HEAD
+brew fonttools
 brew freetype
 brew fribidi
 brew gcc
@@ -68,12 +69,14 @@ brew gtk+3
 brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
-brew imagemagick --with-ghostscript --with-x11 --with-perl --HEAD
+brew imagemagick --with-fftw --with-fontconfig --with-ghostscript --with-hdri --with-libwmf --with-opencl --with-openjpeg --with-openmp --with-perl --with-webp --with-x11
 brew isl
 brew jasper
 brew jpeg
 brew lame
 brew libass
+brew libbluray
+brew libbs2b
 brew libcaca
 brew libepoxy
 brew libffi
@@ -82,6 +85,7 @@ brew libicns
 brew libmpc
 brew libogg
 brew libpng
+brew libsndfile
 brew libssh
 brew libtasn1
 brew libtiff
@@ -91,6 +95,7 @@ brew libusb-compat
 brew libvo-aacenc
 brew libvorbis
 brew libvpx
+brew libwmf
 brew libxml2
 brew libyaml
 brew little-cms2
@@ -106,6 +111,7 @@ brew openjpeg
 brew openssl
 brew openssl@1.1
 brew opus
+brew orc
 brew p7zip
 brew pango
 brew pcre
@@ -123,6 +129,7 @@ brew rtmpdump
 brew ruby
 brew ruby-build
 brew sane-backends
+brew schroedinger
 brew scrollkeeper
 brew sdl
 brew sqlite
