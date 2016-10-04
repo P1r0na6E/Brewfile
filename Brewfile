@@ -133,6 +133,7 @@ brew sane-backends
 brew schroedinger
 brew scrollkeeper
 brew sdl
+brew shared-mime-info
 brew sqlite
 brew texi2html
 brew unrar
