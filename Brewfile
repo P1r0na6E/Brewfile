@@ -31,6 +31,7 @@ cask xquartz
 tap caskroom/versions
 
 tap homebrew/core
+brew ant
 brew atk
 brew autoconf
 brew automake
