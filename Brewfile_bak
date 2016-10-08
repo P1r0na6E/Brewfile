@@ -45,7 +45,7 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-faac --with-fdk-aac --with-fontconfig --with-freetype --with-libass --with-libbluray --with-libbs2b --with-libcaca --with-libssh --with-libvorbis --with-libvpx --with-openh264 --with-openjpeg --with-openssl --with-opus --with-rtmpdump --with-schroedinger --with-tools --with-webp --with-x265 --with-xz --with-zimg --with-sdl
+brew ffmpeg --with-faac --with-fdk-aac --with-ffplay --with-fontconfig --with-freetype --with-libass --with-libbluray --with-libbs2b --with-libcaca --with-libssh --with-libvorbis --with-libvpx --with-openh264 --with-openjpeg --with-openssl --with-opus --with-rtmpdump --with-schroedinger --with-tools --with-webp --with-x265 --with-xz --with-zimg
 brew fftw
 brew flac
 brew fontconfig
@@ -105,7 +105,7 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
-brew nasm
+brew nasm --universal
 brew net-snmp
 brew nettle
 brew nkf
