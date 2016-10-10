@@ -128,6 +128,7 @@ brew pstree
 brew pyenv
 brew python
 brew rbenv
+brew rbenv-default-gems
 brew readline
 brew rtmpdump
 brew ruby
