@@ -16,7 +16,6 @@ cask imagej
 cask java
 cask linein
 cask mi
-cask onyx
 cask opera
 cask processing
 cask silverlight
@@ -29,6 +28,9 @@ cask wineskin-winery
 cask xquartz
 
 tap caskroom/versions
+
+tap homebrew/completions
+brew brew-cask-completion
 
 tap homebrew/core
 brew ant
@@ -140,6 +142,7 @@ brew texi2html
 brew unrar
 brew vim --with-lua --with-luajit --with-override-system-vi --with-python3 --with-tcl
 brew webp
+brew wget
 brew x264
 brew x265
 brew xvid
@@ -148,6 +151,7 @@ brew yasm
 brew youtube-dl --with-rtmpdump
 brew zenity
 brew zimg
+brew zsh-completions
 
 tap homebrew/dupes
 brew m4
