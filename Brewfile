@@ -141,7 +141,7 @@ brew shared-mime-info
 brew sqlite
 brew texi2html
 brew unrar
-brew vim --with-lua --with-luajit --with-override-system-vi --with-python3 --with-tcl
+brew vim --with-lua --with-luajit --with-override-system-vi --with-tcl
 brew webp
 brew wget
 brew x264
