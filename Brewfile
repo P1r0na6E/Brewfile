@@ -49,7 +49,7 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with--faac --with-fdk-aac --with-fontconfig --with-freetype --with-fdk-aac --with-libass --with-libbluray --with-libbs2b --with-libcaca --with-libssh --with-libvorbis --with-libvpx --with-openh264 --with-libsoxr --with-openjpeg --with-openssl --with-opus --with-rtmpdump --with-schroedinger --with-tools --with-webp --with-x265 --with-xz --with-zimg --with-sdl2
+brew ffmpeg --with-fdk-aac --with-fontconfig --with-freetype --with-libass --with-libbluray --with-libbs2b --with-libcaca --with-libssh --with-libvorbis --with-libvpx --with-openh264 --with-libsoxr --with-openjpeg --with-openssl --with-opus --with-rtmpdump --with-schroedinger --with-tools --with-webp --with-x265 --with-xz --with-zimg --with-sdl2
 brew fftw
 brew flac
 brew fontconfig
@@ -91,6 +91,7 @@ brew libmpc
 brew libogg
 brew libpng
 brew libsndfile
+brew libsoxr
 brew libssh
 brew libtasn1
 brew libtiff
@@ -113,6 +114,7 @@ brew nasm
 brew net-snmp
 brew nettle
 brew nkf
+brew openh264
 brew openjpeg
 brew openssl
 brew openssl@1.1
@@ -139,6 +141,7 @@ brew sane-backends
 brew schroedinger
 brew scrollkeeper
 brew sdl
+brew sdl2
 brew shared-mime-info
 brew sqlite
 brew texi2html
