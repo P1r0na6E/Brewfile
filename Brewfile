@@ -18,7 +18,6 @@ cask linein
 cask malwarebytes-anti-malware
 cask mi
 cask onyx
-cask opera
 cask processing
 cask silverlight
 cask soundflower
