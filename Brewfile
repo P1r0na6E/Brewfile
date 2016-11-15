@@ -167,6 +167,7 @@ brew libmpc08
 brew mpfr2
 
 tap rcmdnk/file
+brew brew-file
 
 # App Store applications
 appstore 647697434 Free Fonts (6.0)
