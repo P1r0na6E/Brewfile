@@ -73,7 +73,7 @@ brew gtk+3
 brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
-brew imagemagick --with-fftw --with-fontconfig --with-ghostscript --with-hdri --with-libwmf --with-opencl --with-openjpeg --with-openmp --with-perl --with-webp --with-x11
+brew imagemagick --with-fftw --with-hdri --with-opencl --with-openmp --with-perl --with-x11 --with-fontconfig --with-libwmf --with-ghostscript --with-webp --with-openjpeg
 brew isl
 brew jasper
 brew jpeg
@@ -143,7 +143,7 @@ brew shared-mime-info
 brew sqlite
 brew texi2html
 brew unrar
-brew vim --with-lua --with-luajit --with-override-system-vi --with-tcl
+brew vim --with-override-system-vi --with-lua --with-tcl --with-luajit
 brew webp
 brew wget
 brew x264
