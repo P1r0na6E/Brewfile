@@ -39,16 +39,18 @@ brew atk
 brew autoconf
 brew automake
 brew bash
+brew berkeley-db
 brew brew-gem
 brew cabextract
 brew cairo
 brew cmake
 brew docbook
+brew docutils
 brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-fontconfig --with-freetype --with-libass --with-libbluray --with-libbs2b --with-libcaca --with-libssh --with-libvorbis --with-libvpx --with-openh264 --with-libsoxr --with-openjpeg --with-openssl --with-opus --with-rtmpdump --with-schroedinger --with-tools --with-webp --with-x265 --with-xz --with-zimg --with-sdl2
+brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-schroedinger --with-sdl2 --with-tools --with-webp --with-x265 --with-xz --with-zimg --with-fontconfig --with-freetype --with-libbluray --with-libbs2b --with-libcaca --with-libvorbis --with-libvpx --with-opus --HEAD
 brew fftw
 brew flac
 brew fontconfig
@@ -75,20 +77,31 @@ brew hicolor-icon-theme
 brew icu4c
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-openmp --with-perl --with-x11 --with-fontconfig --with-libwmf --with-ghostscript --with-webp --with-openjpeg
 brew isl
+brew jack
 brew jasper
 brew jpeg
+brew json-c
 brew lame
+brew leptonica
+brew libaacs
+brew libarchive
 brew libass
 brew libbluray
 brew libbs2b
 brew libcaca
+brew libdvdcss
+brew libdvdnav
+brew libdvdread
 brew libepoxy
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libgphoto2
 brew libicns
 brew libmpc
 brew libogg
 brew libpng
+brew libsamplerate
 brew libsndfile
 brew libsoxr
 brew libssh
@@ -102,13 +115,14 @@ brew libvorbis
 brew libvpx
 brew libwmf
 brew libxml2
-brew libyaml
+brew libyaml --universal
 brew little-cms2
 brew lua
 brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
+brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
 brew net-snmp
 brew nettle
@@ -127,12 +141,15 @@ brew perl-build
 brew pixman
 brew pkg-config
 brew pstree
+brew pulseaudio
 brew pyenv
 brew python
+brew python3
 brew rbenv-default-gems
 brew readline
 brew rtmpdump
-brew ruby
+brew rubberband
+brew ruby --universal
 brew ruby-build
 brew sane-backends
 brew schroedinger
@@ -141,8 +158,11 @@ brew sdl
 brew sdl2
 brew shared-mime-info
 brew sqlite
+brew tesseract
 brew texi2html
+brew uchardet
 brew unrar
+brew vapoursynth
 brew vim --with-override-system-vi --with-lua --with-tcl --with-luajit
 brew webp
 brew wget
@@ -170,7 +190,7 @@ tap rcmdnk/file
 brew brew-file --HEAD
 
 # App Store applications
-appstore 647697434 Free Fonts (6.0)
+appstore 647697434 Free Fonts (7.0)
 appstore 497799835 Xcode (8.1)
 appstore 408981434 iMovie (10.1.3)
 appstore 408981434 iMovie 9.0.3 (9.0.3)
