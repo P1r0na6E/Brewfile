@@ -158,6 +158,7 @@ brew sdl
 brew sdl2
 brew shared-mime-info
 brew sqlite
+brew streamripper
 brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
 brew tesseract
 brew texi2html
