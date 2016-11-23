@@ -63,6 +63,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew ghostscript --with-x11
+brew giflib --universal --with-x11
 brew git
 brew glib
 brew gmp
@@ -122,7 +123,7 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
-brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
+brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11 --HEAD
 brew nasm
 brew net-snmp
 brew nettle
@@ -142,7 +143,6 @@ brew pixman
 brew pkg-config
 brew pstree
 brew pulseaudio
-brew pyenv
 brew python
 brew python3
 brew rbenv-default-gems
@@ -158,6 +158,7 @@ brew sdl
 brew sdl2
 brew shared-mime-info
 brew sqlite
+brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
 brew tesseract
 brew texi2html
 brew uchardet
