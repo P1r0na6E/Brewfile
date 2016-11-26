@@ -50,7 +50,7 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-schroedinger --with-sdl2 --with-tools --with-webp --with-x265 --with-xz --with-zimg --with-fontconfig --with-freetype --with-libbluray --with-libbs2b --with-libcaca --with-libvorbis --with-libvpx --with-opus --HEAD
+brew ffmpeg
 brew fftw
 brew flac
 brew fontconfig
@@ -68,6 +68,7 @@ brew git
 brew glib
 brew gmp
 brew gnome-doc-utils
+brew gnu-sed --with-default-names
 brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
 brew gnutls
 brew gobject-introspection
