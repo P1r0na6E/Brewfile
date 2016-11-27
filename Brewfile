@@ -50,13 +50,15 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg
+brew ffmpeg --with-fdk-aac --with-libass --with-libebur128 --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-schroedinger --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-game-music-emu --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-two-lame --with-wavpack
 brew fftw
 brew flac
 brew fontconfig
 brew fonttools
 brew freetype
+brew frei0r
 brew fribidi
+brew game-music-emu
 brew gcc
 brew gd
 brew gdbm
@@ -88,18 +90,22 @@ brew leptonica
 brew libaacs
 brew libarchive
 brew libass
+brew libav --with-fdk-aac --with-fontconfig --with-freetype --with-libvo-aacenc --with-libvpx --with-openssl --with-opus --with-rtmpdump --with-sdl --with-opencore-amr --with-schroedinger --with-speex --with-theora
 brew libbluray
 brew libbs2b
 brew libcaca
 brew libdvdcss
 brew libdvdnav
 brew libdvdread
+brew libebur128
 brew libepoxy
 brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libgphoto2
+brew libgsm
 brew libicns
+brew libmodplug
 brew libmpc
 brew libogg
 brew libpng
@@ -112,6 +118,7 @@ brew libtiff
 brew libtool
 brew libusb
 brew libusb-compat
+brew libvidstab
 brew libvo-aacenc
 brew libvorbis
 brew libvpx
@@ -124,11 +131,12 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mplayer --with-libcaca --HEAD
-brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11 --HEAD
+brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
 brew net-snmp
 brew nettle
 brew nkf
+brew opencore-amr
 brew openh264
 brew openjpeg
 brew openssl
@@ -158,15 +166,20 @@ brew scrollkeeper
 brew sdl
 brew sdl2
 brew shared-mime-info
+brew snappy
+brew speex
 brew sqlite
 brew streamripper
 brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
 brew tesseract
 brew texi2html
+brew theora
+brew two-lame
 brew uchardet
 brew unrar
 brew vapoursynth
 brew vim --with-override-system-vi --with-lua --with-tcl --with-luajit
+brew wavpack
 brew webp
 brew wget
 brew x264
@@ -176,6 +189,7 @@ brew xz
 brew yasm
 brew youtube-dl --with-rtmpdump
 brew zenity
+brew zeromq
 brew zimg
 brew zsh-completions
 
