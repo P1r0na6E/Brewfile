@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask appcleaner
 cask aquaterm
+cask audacity-lame-library
 cask dropbox
 cask emacs
 cask flip4mac
