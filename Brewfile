@@ -7,7 +7,6 @@ brew mas
 tap caskroom/cask
 cask appcleaner
 cask aquaterm
-cask audacity
 cask dropbox
 cask emacs
 cask flip4mac
@@ -205,6 +204,11 @@ brew mpfr2
 
 tap rcmdnk/file
 brew brew-file --HEAD
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask audacity (!)
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
