@@ -43,6 +43,7 @@ brew brew-gem
 brew cabextract
 brew cairo
 brew cmake
+brew dbus
 brew docbook
 brew docutils
 brew doxygen
