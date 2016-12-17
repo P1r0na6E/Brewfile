@@ -50,7 +50,7 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-libebur128 --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-schroedinger --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-game-music-emu --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-two-lame --with-wavpack
+brew ffmpeg
 brew fftw
 brew flac
 brew fontconfig
