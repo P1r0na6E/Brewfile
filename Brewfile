@@ -7,9 +7,9 @@ brew mas
 tap caskroom/cask
 cask appcleaner
 cask aquaterm
+cask cyberduck
 cask dropbox
 cask emacs
-cask filezilla
 cask flip4mac
 cask gimp
 cask imagej
