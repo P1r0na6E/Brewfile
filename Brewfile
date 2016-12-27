@@ -24,6 +24,8 @@ cask soundflower
 cask switch
 cask the-unarchiver
 cask transmission
+cask vagrant-bar
+cask vagrant-manager
 cask vagrant
 cask virtualbox
 cask wineskin-winery
