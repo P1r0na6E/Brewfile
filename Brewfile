@@ -24,6 +24,7 @@ cask soundflower
 cask switch
 cask the-unarchiver
 cask transmission
+cask vagrant
 cask virtualbox
 cask wineskin-winery
 cask xquartz
@@ -32,6 +33,7 @@ tap caskroom/versions
 
 tap homebrew/completions
 brew brew-cask-completion
+brew vagrant-completion
 
 tap homebrew/core
 brew ant
