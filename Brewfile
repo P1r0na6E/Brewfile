@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask appcleaner
 cask aquaterm
+cask atom
 cask cyberduck
 cask dropbox
 cask emacs
@@ -25,6 +26,7 @@ cask soundflower
 cask switch
 cask the-unarchiver
 cask transmission
+cask transmit
 cask vagrant-bar
 cask vagrant-manager
 cask vagrant
@@ -211,6 +213,10 @@ brew mpfr2
 
 tap rcmdnk/file
 brew brew-file --HEAD
+
+tap rcmdnk/rcmdnkpac
+brew sentaku
+brew shell-explorer
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
