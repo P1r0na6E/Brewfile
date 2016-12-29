@@ -195,7 +195,7 @@ brew x265
 brew xvid
 brew xz
 brew yasm
-brew youtube-dl --with-rtmpdump
+brew youtube-dl
 brew zenity
 brew zeromq
 brew zimg
@@ -212,7 +212,7 @@ brew libmpc08
 brew mpfr2
 
 tap rcmdnk/file
-brew brew-file --HEAD
+brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew sentaku
