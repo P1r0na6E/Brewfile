@@ -151,6 +151,7 @@ brew openssl
 brew openssl@1.1
 brew opus
 brew orc
+brew p11-kit
 brew p7zip
 brew pango
 brew pcre
