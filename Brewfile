@@ -90,6 +90,7 @@ brew hicolor-icon-theme
 brew icu4c
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-openmp --with-perl --with-x11 --with-fontconfig --with-libwmf --with-ghostscript --with-webp --with-openjpeg
 brew isl
+brew isl@0.11
 brew jack
 brew jasper
 brew jpeg
@@ -116,6 +117,7 @@ brew libgsm
 brew libicns
 brew libmodplug
 brew libmpc
+brew libmpc@0.8
 brew libogg
 brew libpng
 brew libsamplerate
@@ -139,6 +141,7 @@ brew lua
 brew luajit
 brew makedepend
 brew mpfr
+brew mpfr@2
 brew mplayer --with-libcaca --HEAD
 brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11 --HEAD
 brew nasm
@@ -209,6 +212,7 @@ brew m4
 tap homebrew/versions
 
 tap rcmdnk/file
+brew brew-file --HEAD
 
 tap rcmdnk/rcmdnkpac
 brew sentaku
@@ -217,7 +221,6 @@ brew shell-explorer
 # Other Homebrew packages
 brew cloog018
 brew gmp4
-brew isl011
 brew libmpc08
 brew mpfr2
 
