@@ -50,6 +50,8 @@ brew berkeley-db
 brew brew-gem
 brew cabextract
 brew cairo
+brew cloog
+brew cloog@0.15
 brew cmake
 brew dbus
 brew docbook
@@ -91,6 +93,7 @@ brew icu4c
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-openmp --with-perl --with-x11 --with-fontconfig --with-libwmf --with-ghostscript --with-webp --with-openjpeg
 brew isl
 brew isl@0.11
+brew isl@0.12
 brew jack
 brew jasper
 brew jpeg
@@ -163,6 +166,7 @@ brew perl
 brew perl-build
 brew pixman
 brew pkg-config
+brew ppl@0.11
 brew pstree
 brew pulseaudio
 brew python
@@ -219,10 +223,6 @@ brew sentaku
 brew shell-explorer
 
 # Other Homebrew packages
-brew cloog018
-brew gmp4
-brew libmpc08
-brew mpfr2
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
