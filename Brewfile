@@ -77,6 +77,7 @@ brew giflib --universal --with-x11
 brew git
 brew glib
 brew gmp
+brew gmp@4
 brew gnome-doc-utils
 brew gnu-sed --with-default-names
 brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
@@ -206,18 +207,19 @@ tap homebrew/dupes
 brew m4
 
 tap homebrew/versions
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkpac
+brew sentaku
+brew shell-explorer
+
+# Other Homebrew packages
 brew cloog018
 brew gmp4
 brew isl011
 brew libmpc08
 brew mpfr2
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkpac
-brew sentaku
-brew shell-explorer
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
