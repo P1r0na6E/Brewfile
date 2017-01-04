@@ -146,7 +146,7 @@ brew makedepend
 brew mpfr
 brew mpfr@2
 brew mplayer --with-libcaca --HEAD
-brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11 --HEAD
+brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
 brew net-snmp
 brew nettle
@@ -221,8 +221,6 @@ brew brew-file --HEAD
 tap rcmdnk/rcmdnkpac
 brew sentaku
 brew shell-explorer
-
-# Other Homebrew packages
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
