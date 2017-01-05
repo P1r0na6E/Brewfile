@@ -54,6 +54,7 @@ brew cairo
 brew cloog
 brew cloog@0.15
 brew cmake
+brew coreutils --with-gmp
 brew dbus
 brew docbook
 brew docutils
