@@ -41,6 +41,7 @@ brew brew-cask-completion
 brew vagrant-completion
 
 tap homebrew/core
+brew afflib --with-osxfuse
 brew ant
 brew atk
 brew autoconf
@@ -91,6 +92,7 @@ brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-openmp --with-perl --with-x11 --with-fontconfig --with-libwmf --with-ghostscript --with-webp --with-openjpeg
+brew imlib2 --with-libid3tag
 brew isl
 brew isl@0.11
 brew isl@0.12
@@ -106,7 +108,7 @@ brew libass
 brew libav --with-fdk-aac --with-fontconfig --with-freetype --with-libvo-aacenc --with-libvpx --with-openssl --with-opus --with-rtmpdump --with-sdl --with-opencore-amr --with-schroedinger --with-speex --with-theora
 brew libbluray
 brew libbs2b
-brew libcaca
+brew libcaca --with-imlib2 --HEAD
 brew libdvdcss
 brew libdvdnav
 brew libdvdread
@@ -118,6 +120,7 @@ brew libgpg-error
 brew libgphoto2
 brew libgsm
 brew libicns
+brew libid3tag
 brew libmodplug
 brew libmpc
 brew libmpc@0.8
@@ -145,6 +148,7 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mpfr@2
+brew mplayer
 brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
 brew net-snmp
