@@ -145,7 +145,6 @@ brew luajit
 brew makedepend
 brew mpfr
 brew mpfr@2
-brew mplayer --with-libcaca --HEAD
 brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
 brew net-snmp
