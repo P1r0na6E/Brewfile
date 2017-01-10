@@ -17,7 +17,6 @@ cask imagej
 cask java
 cask mactex
 cask malwarebytes-anti-malware
-cask mi
 cask onyx
 cask processing
 cask silverlight
@@ -26,7 +25,6 @@ cask switch
 cask the-unarchiver
 cask transmission
 cask transmit
-cask vagrant-bar
 cask vagrant-manager
 cask vagrant
 cask virtualbox
