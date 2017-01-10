@@ -15,7 +15,6 @@ cask flip4mac
 cask gimp
 cask imagej
 cask java
-cask linein
 cask mactex
 cask malwarebytes-anti-malware
 cask mi
