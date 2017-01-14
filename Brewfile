@@ -131,6 +131,7 @@ brew libssh
 brew libtasn1
 brew libtiff
 brew libtool
+brew libunistring
 brew libusb
 brew libusb-compat
 brew libvidstab
