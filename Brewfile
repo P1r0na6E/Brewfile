@@ -28,6 +28,7 @@ cask transmit
 cask vagrant-manager
 cask vagrant
 cask virtualbox
+cask vivaldi
 cask wineskin-winery
 cask xquartz
 
