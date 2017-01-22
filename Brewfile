@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask adobe-reader
 cask appcleaner
 cask aquaterm
 cask atom
@@ -23,6 +24,7 @@ cask silverlight
 cask soundflower
 cask switch
 cask the-unarchiver
+cask totalterminal
 cask transmission
 cask transmit
 cask vagrant-manager
