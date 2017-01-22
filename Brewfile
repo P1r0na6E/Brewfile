@@ -188,6 +188,7 @@ brew sdl2
 brew shared-mime-info
 brew snappy
 brew speex
+brew speexdsp
 brew sqlite
 brew streamripper
 brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
