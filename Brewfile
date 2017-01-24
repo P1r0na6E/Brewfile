@@ -26,7 +26,6 @@ cask switch
 cask the-unarchiver
 cask totalterminal
 cask transmission
-cask transmit
 cask vagrant-manager
 cask vagrant
 cask virtualbox
