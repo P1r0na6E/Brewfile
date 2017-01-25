@@ -36,8 +36,6 @@ cask xquartz
 tap caskroom/versions
 
 tap homebrew/completions
-brew brew-cask-completion
-brew vagrant-completion
 
 tap homebrew/core
 brew afflib --with-osxfuse
@@ -47,6 +45,7 @@ brew autoconf
 brew automake
 brew bash
 brew berkeley-db
+brew brew-cask-completion
 brew brew-gem
 brew cabextract
 brew cairo
@@ -199,6 +198,7 @@ brew theora
 brew two-lame
 brew uchardet
 brew unrar
+brew vagrant-completion
 brew vapoursynth
 brew vim --with-override-system-vi --with-lua --with-tcl --with-luajit
 brew wavpack
