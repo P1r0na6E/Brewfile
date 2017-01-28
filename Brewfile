@@ -69,7 +69,8 @@ brew freetype
 brew frei0r
 brew fribidi
 brew game-music-emu
-brew gcc
+brew gcc --with-java --with-all-languages --with-nls --with-jit --without-multilib
+brew gcc@4.9
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -82,7 +83,7 @@ brew gmp
 brew gmp@4
 brew gnome-doc-utils
 brew gnu-sed --with-default-names
-brew gnuplot --with-aquaterm --with-cairo --with-x11 --with-tex
+brew gnuplot --with-cairo --with-tex --with-aquaterm --with-x11
 brew gnutls
 brew gobject-introspection
 brew gsettings-desktop-schemas
@@ -146,8 +147,10 @@ brew little-cms2
 brew lua
 brew luajit
 brew makedepend
+brew mercurial
 brew mpfr
 brew mpfr@2
+brew mpich
 brew mplayer
 brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
