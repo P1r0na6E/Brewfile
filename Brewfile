@@ -19,6 +19,7 @@ cask java
 cask mactex
 cask malwarebytes-anti-malware
 cask onyx
+cask opera
 cask processing
 cask silverlight
 cask soundflower
@@ -29,7 +30,6 @@ cask transmission
 cask vagrant-manager
 cask vagrant
 cask virtualbox
-cask vivaldi
 cask wineskin-winery
 cask xquartz
 
