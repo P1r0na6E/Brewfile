@@ -105,7 +105,7 @@ brew leptonica
 brew libaacs
 brew libarchive
 brew libass
-brew libav --with-fdk-aac --with-fontconfig --with-freetype --with-libvo-aacenc --with-libvpx --with-openssl --with-opus --with-rtmpdump --with-sdl --with-opencore-amr --with-schroedinger --with-speex --with-theora
+brew libav --with-opencore-amr --with-openssl --with-rtmpdump --with-schroedinger --with-sdl --with-speex --with-theora --with-libvo-aacenc --with-libvpx --with-fontconfig --with-freetype --with-fdk-aac --with-opus
 brew libbluray
 brew libbs2b
 brew libcaca --with-imlib2 --HEAD
