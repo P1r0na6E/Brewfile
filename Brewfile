@@ -49,7 +49,7 @@ brew brew-cask-completion
 brew brew-gem
 brew cabextract
 brew cairo
-brew chromaprint --without-examples
+brew chromaprint
 brew cloog
 brew cloog@0.15
 brew cmake
