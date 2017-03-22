@@ -178,6 +178,7 @@ brew pstree
 brew pulseaudio
 brew python
 brew python3
+brew rarian
 brew rbenv-default-gems
 brew readline
 brew rtmpdump
