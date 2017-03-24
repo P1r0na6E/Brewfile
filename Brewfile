@@ -183,7 +183,7 @@ brew rbenv-default-gems
 brew readline
 brew rtmpdump
 brew rubberband
-brew ruby --universal
+brew ruby
 brew ruby-build
 brew sane-backends
 brew schroedinger
