@@ -45,6 +45,7 @@ brew autoconf
 brew automake
 brew bash
 brew berkeley-db
+brew berkeley-db@4
 brew brew-cask-completion
 brew brew-gem
 brew cabextract
@@ -153,7 +154,7 @@ brew mpfr
 brew mpfr@2
 brew mpich
 brew mplayer
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11 --HEAD
+brew mpv
 brew nasm
 brew net-snmp
 brew nettle
@@ -167,6 +168,7 @@ brew opus
 brew orc
 brew p11-kit
 brew p7zip
+brew pandoc
 brew pango
 brew pcre
 brew perl
@@ -176,7 +178,7 @@ brew pkg-config
 brew ppl@0.11
 brew pstree
 brew pulseaudio
-brew python
+brew python --with-berkeley-db@4 --with-tcl-tk
 brew python3
 brew rarian
 brew rbenv-default-gems
@@ -214,7 +216,7 @@ brew x265
 brew xvid
 brew xz
 brew yasm
-brew youtube-dl
+brew youtube-dl --HEAD
 brew zenity
 brew zeromq
 brew zimg
@@ -222,6 +224,7 @@ brew zsh-completions
 
 tap homebrew/dupes
 brew m4
+brew tcl-tk
 
 tap homebrew/versions
 
