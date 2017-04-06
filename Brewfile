@@ -148,6 +148,7 @@ brew libyaml --universal
 brew little-cms2
 brew lua
 brew luajit
+brew m4
 brew makedepend
 brew mercurial
 brew mpfr
@@ -199,6 +200,7 @@ brew speexdsp
 brew sqlite
 brew streamripper
 brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
+brew tcl-tk
 brew tesseract
 brew texi2html
 brew theora
@@ -223,8 +225,6 @@ brew zimg
 brew zsh-completions
 
 tap homebrew/dupes
-brew m4
-brew tcl-tk
 
 tap homebrew/versions
 
