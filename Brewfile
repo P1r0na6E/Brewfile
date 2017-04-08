@@ -78,7 +78,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew ghostscript --with-x11
-brew giflib --universal --with-x11
+brew giflib
 brew git
 brew glib
 brew gmp
@@ -239,4 +239,4 @@ brew shell-explorer
 appstore 647697434 Free Fonts (7.0)
 appstore 408981434 iMovie (10.1.4)
 appstore 408981434 iMovie 9.0.3 (9.0.3)
-appstore 497799835 Xcode (8.3)
+appstore 497799835 Xcode (8.3.1)
