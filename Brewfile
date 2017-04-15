@@ -222,6 +222,8 @@ brew youtube-dl --HEAD
 brew zenity
 brew zeromq
 brew zimg
+brew zpython
+brew zsh
 brew zsh-completions
 
 tap homebrew/dupes
