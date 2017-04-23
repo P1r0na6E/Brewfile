@@ -101,6 +101,7 @@ brew isl@0.12
 brew jack
 brew jasper
 brew jpeg
+brew jq
 brew json-c
 brew lame
 brew leptonica
@@ -160,6 +161,7 @@ brew nasm
 brew net-snmp
 brew nettle
 brew nkf
+brew oniguruma
 brew opencore-amr
 brew openh264
 brew openjpeg
