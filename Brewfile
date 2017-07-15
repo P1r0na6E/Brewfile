@@ -244,6 +244,6 @@ cask adobe-reader
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
-appstore 408981434 iMovie (10.1.5)
+appstore 408981434 iMovie (10.1.6)
 appstore 408981434 iMovie 9.0.3 (9.0.3)
-appstore 497799835 Xcode (8.3.2)
+appstore 497799835 Xcode (8.3.3)
