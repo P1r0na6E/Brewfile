@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask adobe-reader
 cask appcleaner
 cask aquaterm
 cask atom
@@ -62,7 +61,7 @@ brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-schroedinger --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --HEAD
+brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-schroedinger --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack
 brew fftw
 brew flac
 brew fontconfig
@@ -71,7 +70,7 @@ brew freetype
 brew frei0r
 brew fribidi
 brew game-music-emu
-brew gcc --with-java --with-all-languages --with-nls --with-jit --without-multilib
+brew gcc --with-jit --with-nls --without-multilib
 brew gcc@4.9
 brew gd
 brew gdbm
@@ -88,6 +87,7 @@ brew gnu-sed --with-default-names
 brew gnuplot --with-cairo --with-tex --with-aquaterm --with-x11
 brew gnutls
 brew gobject-introspection
+brew graphite2
 brew gsettings-desktop-schemas
 brew gtk+3
 brew harfbuzz
@@ -238,6 +238,9 @@ brew brew-file --HEAD
 tap rcmdnk/rcmdnkpac
 brew sentaku
 brew shell-explorer
+
+# Cask applications
+cask adobe-reader
 
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
