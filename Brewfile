@@ -9,13 +9,11 @@ cask appcleaner
 cask aquaterm
 cask atom
 cask cyberduck
-cask dropbox
 cask emacs
 cask flip4mac
 cask gimp
 cask imagej
 cask java
-cask mactex
 cask malwarebytes-anti-malware
 cask onyx
 cask opera
