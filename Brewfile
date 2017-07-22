@@ -179,7 +179,7 @@ brew pkg-config
 brew ppl@0.11
 brew pstree
 brew pulseaudio
-brew python --with-berkeley-db@4 --with-tcl-tk
+brew python --with-tcl-tk --with-berkeley-db@4
 brew python3
 brew rarian
 brew rbenv-default-gems
@@ -190,6 +190,7 @@ brew ruby
 brew ruby-build
 brew sane-backends
 brew schroedinger
+brew screen
 brew scrollkeeper
 brew sdl
 brew sdl2
