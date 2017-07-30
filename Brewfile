@@ -183,7 +183,7 @@ brew libsoxr
 brew faac
 brew libmodplug
 brew libepoxy
-brew vim --with-lua --with-gettext --with-python3 --with-tcl
+brew vim --with-lua --with-gettext --with-python3 --with-tcl --with-override-system-vi
 brew p7zip
 brew autoconf
 brew gnu-sed --with-default-names
@@ -198,7 +198,7 @@ brew wavpack
 brew icu4c
 brew gcc --with-jit --with-nls --without-multilib
 brew cmake
-brew gnuplot --with-cairo --with-tex --with-aquaterm --with-x11
+brew gnuplot --with-cairo --with-aquaterm --with-x11
 brew lame
 brew libdvdnav
 brew gettext
