@@ -183,7 +183,7 @@ brew libsoxr
 brew faac
 brew libmodplug
 brew libepoxy
-brew vim --with-lua --with-gettext --with-python3 --with-tcl --with-override-system-vi
+brew vim --with-override-system-vi --with-gettext --with-python3 --with-lua --with-tcl
 brew p7zip
 brew autoconf
 brew gnu-sed --with-default-names
