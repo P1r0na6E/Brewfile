@@ -153,6 +153,7 @@ brew jasper
 brew berkeley-db@4
 brew chromaprint
 brew perl
+brew sshfs
 brew pcre
 brew git
 brew giflib
