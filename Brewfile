@@ -45,7 +45,7 @@ brew gd
 brew two-lame
 brew gcc@4.9
 brew libsamplerate
-brew libav --with-opencore-amr --with-openssl --with-rtmpdump --with-schroedinger --with-sdl --with-speex --with-theora --with-libvo-aacenc --with-libvpx --with-fontconfig --with-freetype --with-fdk-aac --with-opus
+brew libav --with-opencore-amr --with-openssl --with-rtmpdump --with-schroedinger --with-sdl --with-speex --with-theora --with-libvo-aacenc --with-fontconfig
 brew gdbm
 brew pango
 brew libvo-aacenc
@@ -69,7 +69,7 @@ brew rarian
 brew python --with-tcl-tk --with-berkeley-db@4
 brew tcl-tk
 brew libebur128
-brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --HEAD
+brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
 brew libbluray
 brew frei0r
 brew jack
@@ -149,6 +149,7 @@ brew sqlite
 brew harfbuzz
 brew libwmf
 brew xz
+brew ntfs-3g
 brew jasper
 brew berkeley-db@4
 brew chromaprint
