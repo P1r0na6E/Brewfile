@@ -198,7 +198,7 @@ brew zenity
 brew gsettings-desktop-schemas
 brew wavpack
 brew icu4c
-brew gcc --with-jit --with-nls --without-multilib
+brew gcc --with-jit --with-nls
 brew cmake
 brew gnuplot --with-cairo --with-aquaterm --with-x11
 brew lame
