@@ -95,6 +95,7 @@ brew unrar
 brew libaacs
 brew yasm
 brew libvorbis
+brew texi2html
 brew ruby-build
 brew pkg-config
 brew shared-mime-info
@@ -118,6 +119,7 @@ brew librsvg
 brew libpng
 brew xvid
 brew vapoursynth
+brew imagemagick --with-fftw --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-ghostscript --with-webp --with-openjpeg --with-pango
 brew fonttools
 brew game-music-emu
 brew libvidstab
@@ -132,7 +134,7 @@ brew zpython
 brew doxygen
 brew sdl2
 brew fdk-aac
-brew mpfr@2
+brew itstool
 brew atk
 brew libarchive
 brew berkeley-db
@@ -163,6 +165,7 @@ brew zsh
 brew sane-backends
 brew orc
 brew m4
+brew gtk-doc
 brew gmp@4
 brew zeromq
 brew libmpc@0.8
@@ -210,10 +213,11 @@ brew lame
 brew libdvdnav
 brew gettext
 brew coreutils --with-gmp
+brew docbook-xsl
 brew cloog@0.15
 brew pstree
 brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
-brew texi2html
+brew mpfr@2
 brew little-cms2
 brew rubberband
 brew zimg
