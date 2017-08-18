@@ -58,6 +58,7 @@ brew leptonica
 brew fontconfig
 brew gdk-pixbuf
 brew snappy
+brew python3
 brew mpich
 brew gmp
 brew vagrant-completion
@@ -77,7 +78,7 @@ brew gnutls
 brew openjpeg
 brew rtmpdump
 brew isl@0.11
-brew python3
+brew little-cms
 brew isl@0.12
 brew afflib --with-osxfuse
 brew libcaca --with-imlib2 --HEAD
@@ -105,7 +106,7 @@ brew x264
 brew webp
 brew speexdsp
 brew x265
-brew uchardet
+brew ilmbase
 brew libssh
 brew libunistring
 brew libgsm
@@ -113,10 +114,10 @@ brew libid3tag
 brew libgpg-error
 brew automake
 brew docutils
+brew librsvg
 brew libpng
 brew xvid
 brew vapoursynth
-brew imagemagick --with-fftw --with-hdri --with-opencl --with-openmp --with-perl --with-x11 --with-fontconfig --with-libwmf --with-ghostscript --with-webp --with-openjpeg
 brew fonttools
 brew game-music-emu
 brew libvidstab
@@ -190,14 +191,18 @@ brew p7zip
 brew autoconf
 brew gnu-sed --with-default-names
 brew hicolor-icon-theme
+brew openexr
 brew libxml2
+brew libcroco
 brew cloog
 brew ant
+brew uchardet
 brew scrollkeeper
 brew zenity
 brew gsettings-desktop-schemas
 brew wavpack
 brew icu4c
+brew liblqr
 brew gcc --with-jit --with-nls
 brew cmake
 brew gnuplot --with-cairo --with-aquaterm --with-x11
