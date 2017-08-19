@@ -119,7 +119,7 @@ brew librsvg
 brew libpng
 brew xvid
 brew vapoursynth
-brew imagemagick --with-fftw --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-ghostscript --with-webp --with-openjpeg --with-pango
+brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango
 brew fonttools
 brew game-music-emu
 brew libvidstab
