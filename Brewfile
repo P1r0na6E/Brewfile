@@ -70,7 +70,7 @@ brew rarian
 brew python --with-tcl-tk --with-berkeley-db@4
 brew tcl-tk
 brew libebur128
-brew mpv --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
+brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
 brew libbluray
 brew frei0r
 brew jack

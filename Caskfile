@@ -1,0 +1,133 @@
+# Cask applications
+# Please copy these lines to your Brewfile and use with `brew-file install`.
+
+# Main tap repository for caskroom/cask
+tap caskroom/cask
+
+# Apps installed by Cask in caskroom/cask
+cask appcleaner # /Applications/AppCleaner.app
+cask aquaterm # /Applications/AquaTerm.app
+cask atom # /Applications/Atom.app
+cask cyberduck # /Applications/Cyberduck.app
+cask emacs # /Applications/Emacs.app
+cask flip4mac # /Applications/Flip4Mac
+cask gimp # /Applications/GIMP.app
+cask imagej # /Applications/ImageJ
+#cask imagej # /Applications/ImageJ8
+cask malwarebytes-anti-malware # /Applications/Malwarebytes Anti-Malware.app
+cask onyx # /Applications/OnyX.app
+cask opera # /Applications/Opera.app
+cask processing # /Applications/Processing.app
+cask switch # /Applications/Switch.app
+cask the-unarchiver # /Applications/The Unarchiver.app
+cask totalterminal # /Applications/TotalTerminal.app
+cask transmission # /Applications/Transmission.app
+cask vagrant-manager # /Applications/Vagrant Manager.app
+cask virtualbox # /Applications/VirtualBox.app
+cask wineskin-winery # /Applications/Wineskin Winery.app
+cask xquartz # /Applications/Utilities/XQuartz.app
+
+# Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.)
+cask java
+cask silverlight
+cask soundflower
+cask vagrant
+
+# Apps installed directly instead of by Cask in caskroom/cask
+#cask adobe-acrobat-reader # /Applications/Adobe Acrobat Reader DC.app
+#cask console # /Applications/Utilities/Console.app
+#cask meshlab # /Applications/meshlab.app
+#cask microsoft-office # /Applications/Microsoft Office 2011
+#cask mpv # /Applications/mpv.app
+#cask r-app # /Applications/R.app
+#cask scilab # /Applications/scilab-5.5.2.app
+#cask skype # /Applications/Skype.app
+
+# Casks in caskroom/versions
+tap caskroom/versions
+
+# Apps installed from AppStore
+appstore 647697434 Free Fonts (7.0) # /Applications/Free Fonts.app
+appstore 408981434 iMovie (10.1.6) # /Applications/iMovie.app
+appstore 408981434 iMovie 9.0.3 (9.0.3) # /Applications/iMovie 9.0.3
+appstore 497799835 Xcode (8.3.3) # /Applications/Xcode.app
+
+# Apps installed but no casks are available
+# (System applications or directory installed.)
+# /Applications/App Store.app
+# /Applications/audacity
+# /Applications/Automator.app
+# /Applications/basic.app
+# /Applications/Calculator.app
+# /Applications/Calendar.app
+# /Applications/Chess.app
+# /Applications/cinderella2.app
+# /Applications/Contacts.app
+# /Applications/Dashboard.app
+# /Applications/Dictionary.app
+# /Applications/DVD Player.app
+# /Applications/EasyWine.app
+# /Applications/FaceTime.app
+# /Applications/Font Book.app
+# /Applications/FreeFem++.app
+# /Applications/FriCAS.app
+# /Applications/iBooks.app
+# /Applications/IDLE.app
+# /Applications/Image Capture.app
+# /Applications/iTunes.app
+# /Applications/kettex
+# /Applications/Launchpad.app
+# /Applications/Mail.app
+# /Applications/Maps.app
+# /Applications/Mathematica.app
+# /Applications/Maxima.app
+# /Applications/Messages.app
+# /Applications/Microsoft Communicator.app
+# /Applications/Microsoft Messenger.app
+# /Applications/Microsoft Silverlight
+# /Applications/Mission Control.app
+# /Applications/Network Connect.app
+# /Applications/Notes.app
+# /Applications/Photo Booth.app
+# /Applications/Photos.app
+# /Applications/PlotDigitizer X.app
+# /Applications/Preview.app
+# /Applications/Python Launcher.app
+# /Applications/QuickTime Player.app
+# /Applications/RealPlayer Converter.app
+# /Applications/RealPlayer Downloader.app
+# /Applications/RealPlayer.app
+# /Applications/Reminders.app
+# /Applications/Remote Desktop Connection.app
+# /Applications/Remove Sophos Home.app
+# /Applications/Safari.app
+# /Applications/ScanSnap
+# /Applications/Siri.app
+# /Applications/Sophos Home.app
+# /Applications/Stickies.app
+# /Applications/System Preferences.app
+# /Applications/TeX
+# /Applications/TextEdit.app
+# /Applications/Time Machine.app
+# /Applications/Wolfram CDF Player.app
+# /Applications/桜花.app
+# /Users/yoshizatosaki/Applications/exe
+# /Users/yoshizatosaki/Applications/Wineskin
+# /Applications/Utilities/Activity Monitor.app
+# /Applications/Utilities/Adobe Flash Player Install Manager.app
+# /Applications/Utilities/Adobe Utilities.localized
+# /Applications/Utilities/AirPort Utility.app
+# /Applications/Utilities/Audio MIDI Setup.app
+# /Applications/Utilities/Bluetooth File Exchange.app
+# /Applications/Utilities/Boot Camp Assistant.app
+# /Applications/Utilities/ColorSync Utility.app
+# /Applications/Utilities/Digital Color Meter.app
+# /Applications/Utilities/Disk Utility.app
+# /Applications/Utilities/Grab.app
+# /Applications/Utilities/Grapher.app
+# /Applications/Utilities/Keychain Access.app
+# /Applications/Utilities/Migration Assistant.app
+# /Applications/Utilities/Script Editor.app
+# /Applications/Utilities/System Information.app
+# /Applications/Utilities/Terminal.app
+# /Applications/Utilities/VoiceOver Utility.app
