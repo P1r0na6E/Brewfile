@@ -12,6 +12,7 @@ cask cyberduck
 cask flip4mac
 cask gimp
 cask java
+cask malwarebytes
 cask onyx
 cask opera
 cask processing
@@ -252,6 +253,5 @@ cask adobe-reader
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
 appstore 408981434 iMovie (10.1.6)
-appstore 408981434 iMovie 9.0.3 (9.0.3)
 appstore 518830108 Memory Cleaner X (2.0.5)
 appstore 497799835 Xcode (8.3.3)
