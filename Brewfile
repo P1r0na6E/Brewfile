@@ -9,10 +9,12 @@ cask appcleaner
 cask aquaterm
 cask atom
 cask cyberduck
+cask flashlight
 cask flip4mac
 cask gimp
 cask java
 cask malwarebytes
+cask mysimbl
 cask onyx
 cask opera
 cask processing
