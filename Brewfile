@@ -255,5 +255,6 @@ cask adobe-reader
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
 appstore 408981434 iMovie (10.1.6)
+appstore 1209167288 Install macOS High Sierra Beta (13.0.55)
 appstore 518830108 Memory Cleaner X (2.0.5)
 appstore 497799835 Xcode (8.3.3)
