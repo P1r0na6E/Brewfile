@@ -1,36 +1,7 @@
 
 # tap repositories and their packages
 
-tap argon/mas
-brew mas
-
-tap caskroom/cask
-cask appcleaner
-cask aquaterm
-cask atom
-cask cyberduck
-cask flashlight
-cask flip4mac
-cask gimp
-cask java
-cask malwarebytes
-cask mysimbl
-cask onyx
-cask opera
-cask processing
-cask silverlight
-cask soundflower
-cask switch
-cask the-unarchiver
-cask totalterminal
-cask transmission
-cask vagrant-manager
-cask vagrant
-cask virtualbox
-cask wineskin-winery
-cask xquartz
-
-tap caskroom/versions
+tap homebrew/dupes
 
 tap homebrew/completions
 
@@ -43,11 +14,11 @@ brew libvpx
 brew zsh-completions
 brew gd
 brew two-lame
-brew gcc@4.9
+brew libgpg-error
 brew libsamplerate
 brew libav --with-opencore-amr --with-openssl --with-rtmpdump --with-schroedinger --with-sdl --with-speex --with-theora --with-libvo-aacenc --with-fontconfig
 brew gdbm
-brew pango
+brew openjpeg
 brew libvo-aacenc
 brew gobject-introspection
 brew libsndfile
@@ -58,7 +29,7 @@ brew leptonica
 brew fontconfig
 brew gdk-pixbuf
 brew snappy
-brew python3
+brew little-cms
 brew mpich
 brew gmp
 brew vagrant-completion
@@ -75,10 +46,10 @@ brew libbluray
 brew frei0r
 brew jack
 brew gnutls
-brew openjpeg
+brew pango
 brew rtmpdump
 brew isl@0.11
-brew little-cms
+brew python3
 brew isl@0.12
 brew afflib --with-osxfuse
 brew libcaca --with-imlib2 --HEAD
@@ -88,14 +59,13 @@ brew luajit
 brew makedepend
 brew libyaml --universal
 brew openssl
-brew mercurial
+brew cloog@0.15
 brew dbus
 brew fftw
 brew unrar
-brew libaacs
-brew yasm
+brew libid3tag
+brew mercurial
 brew libvorbis
-brew texi2html
 brew ruby-build
 brew pkg-config
 brew shared-mime-info
@@ -111,66 +81,64 @@ brew ilmbase
 brew libssh
 brew libunistring
 brew libgsm
-brew libid3tag
-brew libgpg-error
+brew libaacs
+brew yasm
 brew automake
 brew docutils
 brew librsvg
 brew libpng
 brew xvid
-brew vapoursynth
+brew screen
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango --HEAD
 brew fonttools
 brew game-music-emu
 brew libvidstab
-brew screen
-brew ecj
+brew vapoursynth
+brew m4
 brew jq
 brew brew-cask-completion
 brew wget
 brew libgcrypt
-brew bash
+brew gtk-doc
 brew zpython
 brew doxygen
 brew sdl2
-brew fdk-aac
-brew itstool
+brew gnu-sed --with-default-names
+brew mpfr@2
 brew atk
-brew libarchive
-brew berkeley-db
+brew icu4c
+brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
 brew docbook
 brew isl
 brew libtool
+brew giflib
 brew tesseract
 brew openh264
-brew opus
+brew schroedinger
 brew libass
 brew libicns
-brew theora
 brew libtiff
-brew sqlite
+brew hicolor-icon-theme
 brew harfbuzz
-brew libwmf
+brew vim --with-override-system-vi --with-gettext --with-python3 --with-lua --with-tcl
 brew xz
 brew ntfs-3g
 brew jasper
 brew berkeley-db@4
 brew chromaprint
-brew perl
 brew sshfs
 brew pcre
 brew git
-brew giflib
-brew zsh
+brew pandoc
 brew sane-backends
-brew orc
-brew m4
-brew gtk-doc
+brew perl
+brew opus
+brew bash
 brew gmp@4
 brew zeromq
 brew libmpc@0.8
 brew glib
-brew pandoc
+brew theora
 brew libgphoto2
 brew nkf
 brew libmpc
@@ -180,7 +148,7 @@ brew libusb
 brew imlib2 --with-libid3tag
 brew flac
 brew sdl
-brew gtk+3
+brew cloog
 brew ruby
 brew streamripper
 brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-schroedinger --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack
@@ -189,23 +157,25 @@ brew libsoxr
 brew faac
 brew libmodplug
 brew libepoxy
-brew vim --with-override-system-vi --with-gettext --with-python3 --with-lua --with-tcl
 brew p7zip
 brew autoconf
-brew gnu-sed --with-default-names
-brew hicolor-icon-theme
+brew fdk-aac
+brew libwmf
+brew sqlite
+brew itstool
 brew openexr
 brew libxml2
 brew libcroco
-brew cloog
+brew gtk+3
 brew ant
 brew uchardet
 brew scrollkeeper
 brew zenity
 brew gsettings-desktop-schemas
 brew wavpack
-brew icu4c
+brew libarchive
 brew liblqr
+brew orc
 brew gcc --with-jit --with-nls
 brew cmake
 brew gnuplot --with-cairo --with-aquaterm --with-x11
@@ -214,33 +184,61 @@ brew libdvdnav
 brew gettext
 brew coreutils --with-gmp
 brew docbook-xsl
-brew cloog@0.15
+brew rbenv-default-gems
 brew pstree
-brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
-brew mpfr@2
+brew berkeley-db
+brew texi2html
+brew mas
 brew little-cms2
 brew rubberband
 brew zimg
 brew libogg
-brew mplayer
 brew openssl@1.1
 brew libffi
 brew oniguruma
 brew readline
+brew ecj
 brew net-snmp
 brew perl-build
 brew fribidi
-brew rbenv-default-gems
 brew pulseaudio
-brew schroedinger
+brew zsh
 brew nettle
-brew nasm
-brew p11-kit
 brew mpfr
-
-tap homebrew/dupes
+brew gcc@4.9
+brew p11-kit
+brew nasm
 
 tap homebrew/versions
+
+tap caskroom/versions
+cask safari-technology-preview
+
+tap caskroom/cask
+cask atom
+cask soundflower
+cask wineskin-winery
+cask processing
+cask virtualbox
+cask aquaterm
+cask appcleaner
+cask mysimbl
+cask the-unarchiver
+cask transmission
+cask malwarebytes
+cask vagrant
+cask switch
+cask gimp
+cask cyberduck
+cask silverlight
+cask vagrant-manager
+cask xquartz
+cask flashlight
+cask java
+cask flip4mac
+cask opera
+
+tap argon/mas
 
 tap rcmdnk/file
 brew brew-file --HEAD
@@ -255,6 +253,5 @@ cask adobe-reader
 # App Store applications
 appstore 647697434 Free Fonts (7.0)
 appstore 408981434 iMovie (10.1.6)
-appstore 1209167288 Install macOS High Sierra Beta (13.0.55)
 appstore 518830108 Memory Cleaner X (2.0.5)
 appstore 497799835 Xcode (8.3.3)
