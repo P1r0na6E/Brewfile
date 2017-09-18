@@ -41,7 +41,7 @@ brew rarian
 brew python --with-tcl-tk --with-berkeley-db@4
 brew tcl-tk
 brew libebur128
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
+brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --HEAD
 brew libbluray
 brew frei0r
 brew jack
@@ -64,6 +64,7 @@ brew dbus
 brew fftw
 brew unrar
 brew libid3tag
+brew bison
 brew mercurial
 brew libvorbis
 brew ruby-build
@@ -117,6 +118,7 @@ brew openh264
 brew schroedinger
 brew libass
 brew libicns
+brew ruby@2.0
 brew libtiff
 brew hicolor-icon-theme
 brew harfbuzz
