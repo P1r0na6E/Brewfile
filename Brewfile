@@ -228,14 +228,12 @@ cask mysimbl
 cask the-unarchiver
 cask transmission
 cask malwarebytes
-cask monolingual
 cask vagrant
 cask switch
 cask gimp
 cask cyberduck
 cask silverlight
 cask vagrant-manager
-cask totalterminal
 cask xquartz
 cask flashlight
 cask java
@@ -255,7 +253,6 @@ brew shell-explorer
 cask adobe-reader
 
 # App Store applications
-appstore 647697434 Free Fonts (7.0)
-appstore 408981434 iMovie (10.1.6)
+appstore 408981434 iMovie (10.1.7)
 appstore 518830108 Memory Cleaner X (2.0.5)
 appstore 497799835 Xcode (9.0)

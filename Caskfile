@@ -12,11 +12,13 @@ cask cyberduck # /Applications/Cyberduck.app
 cask flashlight # /Applications/Flashlight.app
 cask flip4mac # /Applications/Flip4Mac
 cask gimp # /Applications/GIMP.app
+cask monolingual # /Applications/Monolingual.app
 cask mysimbl # /Applications/mySIMBL.app
 cask opera # /Applications/Opera.app
 cask processing # /Applications/Processing.app
 cask switch # /Applications/Switch.app
 cask the-unarchiver # /Applications/The Unarchiver.app
+cask totalterminal # /Applications/TotalTerminal.app
 cask transmission # /Applications/Transmission.app
 cask vagrant-manager # /Applications/Vagrant Manager.app
 cask virtualbox # /Applications/VirtualBox.app
@@ -49,7 +51,7 @@ cask safari-technology-preview # /Applications/Safari Technology Preview.app
 appstore 647697434 Free Fonts (7.0) # /Applications/Free Fonts.app
 appstore 408981434 iMovie (10.1.6) # /Applications/iMovie.app
 appstore 518830108 Memory Cleaner X (2.0.5) # /Applications/Memory Cleaner X.app
-appstore 497799835 Xcode (8.3.3) # /Applications/Xcode.app
+appstore 497799835 Xcode (9.0) # /Applications/Xcode.app
 
 # Apps installed but no casks are available
 # (System applications or directory installed.)
@@ -90,7 +92,6 @@ appstore 497799835 Xcode (8.3.3) # /Applications/Xcode.app
 # /Applications/Font Book.app
 # /Applications/FaceTime.app
 # /Applications/kettex
-# /Applications/ImageJ8
 # /Applications/桜花.app
 # /Applications/Malwarebytes.app
 # /Applications/Wolfram CDF Player.app
@@ -110,7 +111,6 @@ appstore 497799835 Xcode (8.3.3) # /Applications/Xcode.app
 # /Applications/Reminders.app
 # /Applications/App Store.app
 # /Applications/Automator.app
-# /Applications/Xcode-beta.app
 # /Applications/Calendar.app
 # /Applications/Microsoft Messenger.app
 # /Applications/System Preferences.app
