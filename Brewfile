@@ -214,7 +214,6 @@ brew nasm
 tap homebrew/versions
 
 tap caskroom/versions
-cask safari-technology-preview
 
 tap caskroom/cask
 cask atom
