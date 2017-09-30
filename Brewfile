@@ -103,12 +103,13 @@ brew libgcrypt
 brew gtk-doc
 brew zpython
 brew doxygen
+brew xpdf
 brew sdl2
 brew gnu-sed --with-default-names
 brew mpfr@2
 brew atk
 brew icu4c
-brew swftools --with-fftw --with-giflib --with-jpeg --with-lame --with-xpdf
+brew swftools
 brew docbook
 brew isl
 brew libtool
@@ -157,6 +158,7 @@ brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tes
 brew libtasn1
 brew libsoxr
 brew faac
+brew openmotif --with-jpeg --with-libpng
 brew libmodplug
 brew libepoxy
 brew p7zip
@@ -199,6 +201,7 @@ brew openssl@1.1
 brew libffi
 brew oniguruma
 brew readline
+brew sha2
 brew ecj
 brew net-snmp
 brew perl-build
