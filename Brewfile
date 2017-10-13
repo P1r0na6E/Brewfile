@@ -89,6 +89,7 @@ brew docutils
 brew librsvg
 brew libpng
 brew xvid
+brew boost
 brew screen
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango --HEAD
 brew fonttools
@@ -118,8 +119,7 @@ brew tesseract
 brew openh264
 brew schroedinger
 brew libass
-brew libicns
-brew ruby@2.0
+brew source-highlight
 brew libtiff
 brew hicolor-icon-theme
 brew harfbuzz
@@ -184,6 +184,7 @@ brew gcc --with-jit --with-nls
 brew cmake
 brew gnuplot --with-cairo --with-aquaterm --with-x11
 brew lame
+brew libicns
 brew libdvdnav
 brew gettext
 brew coreutils --with-gmp
@@ -226,7 +227,6 @@ cask processing
 cask virtualbox
 cask aquaterm
 cask appcleaner
-cask mysimbl
 cask the-unarchiver
 cask transmission
 cask malwarebytes
@@ -237,7 +237,6 @@ cask cyberduck
 cask silverlight
 cask vagrant-manager
 cask xquartz
-cask flashlight
 cask java
 cask flip4mac
 cask opera
