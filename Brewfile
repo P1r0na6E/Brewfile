@@ -1,223 +1,221 @@
 
 # tap repositories and their packages
 
-tap homebrew/dupes
+tap homebrew/core
+brew afflib --with-osxfuse
+brew ant
+brew atk
+brew autoconf
+brew automake
+brew bash
+brew berkeley-db
+brew berkeley-db@4
+brew bison
+brew boost
+brew brew-cask-completion
+brew brew-gem
+brew cabextract
+brew cairo
+brew chromaprint
+brew cloog
+brew cloog@0.15
+brew cmake
+brew coreutils --with-gmp
+brew dbus
+brew docbook
+brew docbook-xsl
+brew docutils
+brew doxygen
+brew ecj
+brew faac
+brew fdk-aac
+brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --HEAD
+brew fftw
+brew flac
+brew fontconfig
+brew fonttools
+brew freetype
+brew frei0r
+brew fribidi
+brew game-music-emu
+brew gcc --with-jit --with-nls
+brew gcc@4.9
+brew gd
+brew gdbm
+brew gdk-pixbuf
+brew gettext
+brew ghostscript --with-x11
+brew giflib
+brew git
+brew glib
+brew gmp
+brew gmp@4
+brew gnome-doc-utils
+brew gnu-sed --with-default-names
+brew gnuplot --with-cairo --with-aquaterm --with-x11
+brew gnutls
+brew gobject-introspection
+brew graphite2
+brew gsettings-desktop-schemas
+brew gtk+3
+brew gtk-doc
+brew harfbuzz
+brew hicolor-icon-theme
+brew icu4c
+brew ilmbase
+brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango --HEAD
+brew imlib2 --with-libid3tag
+brew isl
+brew isl@0.11
+brew isl@0.12
+brew itstool
+brew jack
+brew jasper
+brew jpeg
+brew jq
+brew json-c
+brew lame
+brew leptonica
+brew libaacs
+brew libarchive
+brew libass
+brew libav --with-opencore-amr --with-openssl --with-rtmpdump --with-schroedinger --with-sdl --with-speex --with-theora --with-libvo-aacenc --with-fontconfig
+brew libbluray
+brew libbs2b
+brew libcaca --with-imlib2 --HEAD
+brew libcroco
+brew libdvdcss
+brew libdvdnav
+brew libdvdread
+brew libebur128
+brew libepoxy
+brew libffi
+brew libgcrypt
+brew libgpg-error
+brew libgphoto2
+brew libgsm
+brew libicns
+brew libid3tag
+brew liblqr
+brew libmodplug
+brew libmpc
+brew libmpc@0.8
+brew libogg
+brew libpng
+brew librsvg
+brew libsamplerate
+brew libsndfile
+brew libsoxr
+brew libssh
+brew libtasn1
+brew libtiff
+brew libtool
+brew libunistring
+brew libusb
+brew libusb-compat
+brew libvidstab
+brew libvo-aacenc
+brew libvorbis
+brew libvpx
+brew libwmf
+brew libxml2
+brew libyaml --universal
+brew little-cms
+brew little-cms2
+brew lua
+brew luajit
+brew m4
+brew makedepend
+brew mas
+brew mercurial
+brew mpfr
+brew mpfr@2
+brew mpich
+brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --HEAD
+brew nasm
+brew net-snmp
+brew nettle
+brew nkf
+brew ntfs-3g
+brew oniguruma
+brew opencore-amr
+brew openexr
+brew openh264
+brew openjpeg
+brew openmotif --with-jpeg --with-libpng
+brew openssl
+brew openssl@1.1
+brew opus
+brew orc
+brew p11-kit
+brew p7zip
+brew pandoc
+brew pango
+brew pcre
+brew perl
+brew perl-build
+brew pixman
+brew pkg-config
+brew ppl@0.11
+brew pstree
+brew pulseaudio
+brew python --with-tcl-tk --with-berkeley-db@4
+brew python3
+brew rarian
+brew rbenv-default-gems
+brew readline
+brew rtmpdump
+brew rubberband
+brew ruby
+brew ruby-build
+brew sane-backends
+brew schroedinger
+brew screen
+brew scrollkeeper
+brew sdl
+brew sdl2
+brew sha2
+brew shared-mime-info
+brew snappy
+brew source-highlight
+brew speex
+brew speexdsp
+brew sqlite
+brew sshfs
+brew streamripper
+brew swftools
+brew tcl-tk
+brew tesseract
+brew texi2html
+brew theora
+brew two-lame
+brew uchardet
+brew unrar
+brew vagrant-completion
+brew vapoursynth
+brew vim --with-override-system-vi --with-gettext --with-python3 --with-lua --with-tcl
+brew wavpack
+brew webp
+brew wget
+brew x264
+brew x265
+brew xpdf
+brew xvid
+brew xz
+brew yasm
+brew youtube-dl --HEAD
+brew zenity
+brew zeromq
+brew zimg
+brew zpython
+brew zsh
+brew zsh-completions
 
 tap homebrew/completions
 
-tap homebrew/core
-brew speex
-brew gnome-doc-utils
-brew brew-gem
-brew jpeg
-brew libvpx
-brew zsh-completions
-brew gd
-brew two-lame
-brew libgpg-error
-brew libsamplerate
-brew libav --with-opencore-amr --with-openssl --with-rtmpdump --with-schroedinger --with-sdl --with-speex --with-theora --with-libvo-aacenc --with-fontconfig
-brew gdbm
-brew openjpeg
-brew libvo-aacenc
-brew gobject-introspection
-brew libsndfile
-brew libdvdcss
-brew lua
-brew cabextract
-brew leptonica
-brew fontconfig
-brew gdk-pixbuf
-brew snappy
-brew little-cms
-brew mpich
-brew gmp
-brew vagrant-completion
-brew pixman
-brew freetype
-brew libusb-compat
-brew youtube-dl --HEAD
-brew rarian
-brew python --with-tcl-tk --with-berkeley-db@4
-brew tcl-tk
-brew libebur128
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --HEAD
-brew libbluray
-brew frei0r
-brew jack
-brew gnutls
-brew pango
-brew rtmpdump
-brew isl@0.11
-brew python3
-brew isl@0.12
-brew afflib --with-osxfuse
-brew libcaca --with-imlib2 --HEAD
-brew ghostscript --with-x11
-brew ppl@0.11
-brew luajit
-brew makedepend
-brew libyaml --universal
-brew openssl
-brew cloog@0.15
-brew dbus
-brew fftw
-brew unrar
-brew libid3tag
-brew bison
-brew mercurial
-brew libvorbis
-brew ruby-build
-brew pkg-config
-brew shared-mime-info
-brew libdvdread
-brew json-c
-brew cairo
-brew libbs2b
-brew x264
-brew webp
-brew speexdsp
-brew x265
-brew ilmbase
-brew libssh
-brew libunistring
-brew libgsm
-brew libaacs
-brew yasm
-brew automake
-brew docutils
-brew librsvg
-brew libpng
-brew xvid
-brew boost
-brew screen
-brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango --HEAD
-brew fonttools
-brew game-music-emu
-brew libvidstab
-brew vapoursynth
-brew m4
-brew jq
-brew brew-cask-completion
-brew wget
-brew libgcrypt
-brew gtk-doc
-brew zpython
-brew doxygen
-brew xpdf
-brew sdl2
-brew gnu-sed --with-default-names
-brew mpfr@2
-brew atk
-brew icu4c
-brew swftools
-brew docbook
-brew isl
-brew libtool
-brew giflib
-brew tesseract
-brew openh264
-brew schroedinger
-brew libass
-brew source-highlight
-brew libtiff
-brew hicolor-icon-theme
-brew harfbuzz
-brew vim --with-override-system-vi --with-gettext --with-python3 --with-lua --with-tcl
-brew xz
-brew ntfs-3g
-brew jasper
-brew berkeley-db@4
-brew chromaprint
-brew sshfs
-brew pcre
-brew git
-brew pandoc
-brew sane-backends
-brew perl
-brew opus
-brew bash
-brew gmp@4
-brew zeromq
-brew libmpc@0.8
-brew glib
-brew theora
-brew libgphoto2
-brew nkf
-brew libmpc
-brew opencore-amr
-brew graphite2
-brew libusb
-brew imlib2 --with-libid3tag
-brew flac
-brew sdl
-brew cloog
-brew ruby
-brew streamripper
-brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --HEAD
-brew libtasn1
-brew libsoxr
-brew faac
-brew openmotif --with-jpeg --with-libpng
-brew libmodplug
-brew libepoxy
-brew p7zip
-brew autoconf
-brew fdk-aac
-brew libwmf
-brew sqlite
-brew itstool
-brew openexr
-brew libxml2
-brew libcroco
-brew gtk+3
-brew ant
-brew uchardet
-brew scrollkeeper
-brew zenity
-brew gsettings-desktop-schemas
-brew wavpack
-brew libarchive
-brew liblqr
-brew orc
-brew gcc --with-jit --with-nls
-brew cmake
-brew gnuplot --with-cairo --with-aquaterm --with-x11
-brew lame
-brew libicns
-brew libdvdnav
-brew gettext
-brew coreutils --with-gmp
-brew docbook-xsl
-brew rbenv-default-gems
-brew pstree
-brew berkeley-db
-brew texi2html
-brew mas
-brew little-cms2
-brew rubberband
-brew zimg
-brew libogg
-brew openssl@1.1
-brew libffi
-brew oniguruma
-brew readline
-brew sha2
-brew ecj
-brew net-snmp
-brew perl-build
-brew fribidi
-brew pulseaudio
-brew zsh
-brew nettle
-brew mpfr
-brew gcc@4.9
-brew p11-kit
-brew nasm
+tap homebrew/dupes
 
 tap homebrew/versions
-
-tap caskroom/versions
 
 tap caskroom/cask
 cask atom
@@ -240,6 +238,8 @@ cask xquartz
 cask java
 cask flip4mac
 cask opera
+
+tap caskroom/versions
 
 tap argon/mas
 
