@@ -131,7 +131,7 @@ brew mercurial
 brew mpfr
 brew mpfr@2
 brew mpich
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --HEAD
+brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
 brew nasm
 brew net-snmp
 brew nettle
@@ -218,7 +218,6 @@ tap homebrew/dupes
 tap homebrew/versions
 
 tap caskroom/cask
-cask atom
 cask soundflower
 cask wineskin-winery
 cask processing
