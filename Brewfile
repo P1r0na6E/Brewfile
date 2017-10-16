@@ -218,6 +218,7 @@ tap homebrew/dupes
 tap homebrew/versions
 
 tap caskroom/cask
+cask texmaker
 cask soundflower
 cask wineskin-winery
 cask processing
@@ -234,6 +235,7 @@ cask cyberduck
 cask silverlight
 cask vagrant-manager
 cask xquartz
+cask texstudio
 cask java
 cask flip4mac
 cask opera
