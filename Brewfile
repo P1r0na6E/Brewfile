@@ -227,7 +227,6 @@ cask appcleaner
 cask the-unarchiver
 cask transmission
 cask malwarebytes
-cask simbl
 cask vagrant
 cask switch
 cask gimp
