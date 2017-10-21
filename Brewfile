@@ -218,7 +218,6 @@ tap homebrew/dupes
 tap homebrew/versions
 
 tap caskroom/cask
-cask texmaker
 cask soundflower
 cask wineskin-winery
 cask processing
@@ -228,6 +227,7 @@ cask appcleaner
 cask the-unarchiver
 cask transmission
 cask malwarebytes
+cask simbl
 cask vagrant
 cask switch
 cask gimp
@@ -235,7 +235,6 @@ cask cyberduck
 cask silverlight
 cask vagrant-manager
 cask xquartz
-cask texstudio
 cask java
 cask flip4mac
 cask opera
@@ -257,4 +256,4 @@ cask adobe-reader
 # App Store applications
 appstore 408981434 iMovie (10.1.7)
 appstore 518830108 Memory Cleaner X (2.0.5)
-appstore 497799835 Xcode (9.0)
+appstore 497799835 Xcode (9.0.1)
