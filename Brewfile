@@ -27,6 +27,7 @@ brew docbook-xsl
 brew docutils
 brew doxygen
 brew ecj
+brew emojify
 brew faac
 brew fdk-aac
 brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --HEAD
@@ -37,6 +38,8 @@ brew fonttools
 brew freetype
 brew frei0r
 brew fribidi
+brew fzf
+brew fzy
 brew game-music-emu
 brew gcc --with-jit --with-nls
 brew gcc@4.9
@@ -45,15 +48,18 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew ghostscript --with-x11
+brew ghq
 brew giflib
 brew git
 brew glib
+brew glide
 brew gmp
 brew gmp@4
 brew gnome-doc-utils
 brew gnu-sed --with-default-names
 brew gnuplot --with-cairo --with-aquaterm --with-x11
 brew gnutls
+brew go
 brew gobject-introspection
 brew graphite2
 brew gsettings-desktop-schemas
@@ -89,6 +95,7 @@ brew libdvdnav
 brew libdvdread
 brew libebur128
 brew libepoxy
+brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
@@ -152,6 +159,7 @@ brew p7zip
 brew pandoc
 brew pango
 brew pcre
+brew peco
 brew perl
 brew perl-build
 brew pixman
@@ -188,12 +196,14 @@ brew tcl-tk
 brew tesseract
 brew texi2html
 brew theora
+brew tmux --with-utf8proc
+brew tree
 brew two-lame
 brew uchardet
 brew unrar
 brew vagrant-completion
 brew vapoursynth
-brew vim --with-override-system-vi --with-gettext --with-python3 --with-lua --with-tcl
+brew vim --with-client-server --with-gettext --with-lua --with-luajit --with-override-system-vi --with-python3 --with-tcl
 brew wavpack
 brew webp
 brew wget
@@ -207,6 +217,7 @@ brew youtube-dl --HEAD
 brew zenity
 brew zeromq
 brew zimg
+brew zplug --with-zsh
 brew zpython
 brew zsh
 brew zsh-completions
@@ -228,7 +239,6 @@ cask mysimbl
 cask the-unarchiver
 cask transmission
 cask malwarebytes
-cask simbl
 cask vagrant
 cask switch
 cask gimp
