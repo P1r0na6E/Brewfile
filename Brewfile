@@ -131,7 +131,7 @@ brew mercurial
 brew mpfr
 brew mpfr@2
 brew mpich
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
+brew mpv
 brew nasm
 brew net-snmp
 brew nettle
@@ -224,9 +224,11 @@ cask processing
 cask virtualbox
 cask aquaterm
 cask appcleaner
+cask mysimbl
 cask the-unarchiver
 cask transmission
 cask malwarebytes
+cask simbl
 cask vagrant
 cask switch
 cask gimp
@@ -234,6 +236,7 @@ cask cyberduck
 cask silverlight
 cask vagrant-manager
 cask xquartz
+cask flashlight
 cask java
 cask flip4mac
 cask opera
