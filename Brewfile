@@ -131,7 +131,7 @@ brew mercurial
 brew mpfr
 brew mpfr@2
 brew mpich
-brew mpv
+brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew nasm
 brew net-snmp
 brew nettle
