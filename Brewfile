@@ -146,6 +146,7 @@ brew mpich
 brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew msgpack
 brew nasm
+brew neovim
 brew net-snmp
 brew nettle
 brew nkf
