@@ -77,6 +77,7 @@ brew isl@0.12
 brew itstool
 brew jack
 brew jasper
+brew jemalloc
 brew jpeg
 brew jq
 brew json-c
@@ -115,21 +116,25 @@ brew libsndfile
 brew libsoxr
 brew libssh
 brew libtasn1
+brew libtermkey
 brew libtiff
 brew libtool
 brew libunistring
 brew libusb
 brew libusb-compat
+brew libuv --with-test
 brew libvidstab
 brew libvo-aacenc
 brew libvorbis
 brew libvpx
+brew libvterm
 brew libwmf
 brew libxml2
 brew libyaml --universal
 brew little-cms
 brew little-cms2
 brew lua
+brew lua@5.1 --with-completion
 brew luajit
 brew m4
 brew makedepend
@@ -139,6 +144,7 @@ brew mpfr
 brew mpfr@2
 brew mpich
 brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
+brew msgpack
 brew nasm
 brew net-snmp
 brew nettle
@@ -172,6 +178,7 @@ brew python3
 brew rarian
 brew rbenv-default-gems
 brew readline
+brew reattach-to-user-namespace
 brew rtmpdump
 brew rubberband
 brew ruby
@@ -188,6 +195,7 @@ brew snappy
 brew source-highlight
 brew speex
 brew speexdsp
+brew sphinx-doc
 brew sqlite
 brew sshfs
 brew streamripper
@@ -200,7 +208,9 @@ brew tmux --with-utf8proc
 brew tree
 brew two-lame
 brew uchardet
+brew unibilium
 brew unrar
+brew utf8proc
 brew vagrant-completion
 brew vapoursynth
 brew vim --with-client-server --with-gettext --with-lua --with-luajit --with-override-system-vi --with-python3 --with-tcl
@@ -239,6 +249,7 @@ cask mysimbl
 cask the-unarchiver
 cask transmission
 cask malwarebytes
+cask monolingual
 cask vagrant
 cask switch
 cask gimp
