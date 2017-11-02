@@ -249,7 +249,6 @@ cask appcleaner
 cask mysimbl
 cask the-unarchiver
 cask transmission
-cask malwarebytes
 cask monolingual
 cask vagrant
 cask switch
