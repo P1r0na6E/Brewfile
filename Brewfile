@@ -83,6 +83,7 @@ brew jq
 brew json-c
 brew lame
 brew leptonica
+brew lhasa
 brew libaacs
 brew libarchive
 brew libass
@@ -277,6 +278,7 @@ brew shell-explorer
 cask adobe-reader
 
 # App Store applications
-appstore 408981434 iMovie (10.1.7)
+appstore 682658836 GarageBand (10.2.0)
+appstore 408981434 iMovie (10.1.8)
 appstore 518830108 Memory Cleaner (2.5)
-appstore 497799835 Xcode (9.0.1)
+appstore 497799835 Xcode (9.1)
