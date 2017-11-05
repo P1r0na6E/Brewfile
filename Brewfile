@@ -27,7 +27,6 @@ brew docbook-xsl
 brew docutils
 brew doxygen
 brew ecj
-brew emojify
 brew faac
 brew fdk-aac
 brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --HEAD
@@ -177,6 +176,7 @@ brew pstree
 brew pulseaudio
 brew python --with-tcl-tk --with-berkeley-db@4
 brew python3
+brew rakudo-star
 brew rarian
 brew rbenv-default-gems
 brew readline
@@ -215,7 +215,7 @@ brew unrar
 brew utf8proc
 brew vagrant-completion
 brew vapoursynth
-brew vim --with-client-server --with-gettext --with-lua --with-luajit --with-override-system-vi --with-python3 --with-tcl
+brew vim --with-gettext --with-luajit --with-python3 --with-tcl
 brew wavpack
 brew webp
 brew wget
