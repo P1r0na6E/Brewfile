@@ -243,12 +243,10 @@ tap homebrew/versions
 tap caskroom/cask
 cask soundflower
 cask wineskin-winery
-cask processing
 cask virtualbox
 cask aquaterm
 cask appcleaner
 cask mysimbl
-cask the-unarchiver
 cask transmission
 cask monolingual
 cask vagrant
