@@ -276,7 +276,6 @@ brew shell-explorer
 cask adobe-reader
 
 # App Store applications
-appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 518830108 Memory Cleaner (2.5)
 appstore 497799835 Xcode (9.1)
