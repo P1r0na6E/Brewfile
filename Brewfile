@@ -56,6 +56,7 @@ brew gmp
 brew gmp@4
 brew gnome-doc-utils
 brew gnu-sed --with-default-names
+brew gnu-tar --with-default-names
 brew gnuplot --with-cairo --with-aquaterm --with-x11
 brew gnutls
 brew go
@@ -143,7 +144,7 @@ brew mercurial
 brew mpfr
 brew mpfr@2
 brew mpich
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
+brew mpv
 brew msgpack
 brew nasm
 brew neovim
