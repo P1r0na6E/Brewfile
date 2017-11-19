@@ -216,7 +216,7 @@ brew unrar
 brew utf8proc
 brew vagrant-completion
 brew vapoursynth
-brew vim --with-gettext --with-luajit --with-python3 --with-tcl
+brew vim --with-gettext --with-python3 --with-tcl --with-luajit
 brew wavpack
 brew webp
 brew wget
