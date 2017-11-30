@@ -277,5 +277,8 @@ cask adobe-reader
 
 # App Store applications
 appstore 408981434 iMovie (10.1.8)
+appstore 409183694 Keynote (7.3.1)
 appstore 518830108 Memory Cleaner (2.5)
+appstore 409203825 Numbers (4.3.1)
+appstore 409201541 Pages (6.3.1)
 appstore 497799835 Xcode (9.1)
