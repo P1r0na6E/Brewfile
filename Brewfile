@@ -23,6 +23,7 @@ brew coreutils --with-gmp
 brew dbus
 brew docbook
 brew docbook-xsl
+brew docker --with-experimental
 brew docutils
 brew doxygen
 brew ecj
@@ -226,6 +227,7 @@ brew xvid
 brew xz
 brew yasm
 brew youtube-dl --HEAD
+brew yubico-piv-tool
 brew zenity
 brew zeromq
 brew zimg
