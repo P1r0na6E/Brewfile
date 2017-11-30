@@ -10,11 +10,12 @@ brew automake
 brew berkeley-db
 brew berkeley-db@4
 brew bison
-brew boost
+brew boost --without-single --with-mpi
 brew brew-cask-completion
 brew brew-gem
 brew cabextract
 brew cairo
+brew cgal
 brew chromaprint
 brew cloog
 brew cloog@0.15
@@ -24,12 +25,14 @@ brew dbus
 brew docbook
 brew docbook-xsl
 brew docker --with-experimental
+brew docker-compose
+brew docker-machine
 brew docutils
 brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack
+brew ffmpeg
 brew fftw
 brew flac
 brew fontconfig
@@ -141,10 +144,11 @@ brew m4
 brew makedepend
 brew mas
 brew mercurial
+brew metis
 brew mpfr
 brew mpfr@2
 brew mpich
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
+brew mpv
 brew msgpack
 brew nasm
 brew neovim
@@ -153,6 +157,7 @@ brew nettle
 brew nkf
 brew ntfs-3g
 brew oniguruma
+brew open-mpi
 brew opencore-amr
 brew openexr
 brew openh264
@@ -240,6 +245,10 @@ tap homebrew/completions
 
 tap homebrew/dupes
 
+tap homebrew/science
+brew parmetis
+brew scotch
+
 tap homebrew/versions
 
 tap caskroom/cask
@@ -266,6 +275,9 @@ cask opera
 tap caskroom/versions
 
 tap argon/mas
+
+## Direct install
+brew https://raw.githubusercontent.com/mrklein/openfoam-os-x/master/formulae/parmgridgen.rb
 
 tap rcmdnk/file
 brew brew-file --HEAD
