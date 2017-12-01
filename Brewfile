@@ -10,7 +10,7 @@ brew automake
 brew berkeley-db
 brew berkeley-db@4
 brew bison
-brew boost --without-single --with-mpi
+brew boost --without-single
 brew brew-cask-completion
 brew brew-gem
 brew cabextract
@@ -24,15 +24,12 @@ brew coreutils --with-gmp
 brew dbus
 brew docbook
 brew docbook-xsl
-brew docker --with-experimental
-brew docker-compose
-brew docker-machine
 brew docutils
 brew doxygen
 brew ecj
 brew faac
 brew fdk-aac
-brew ffmpeg
+brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack
 brew fftw
 brew flac
 brew fontconfig
@@ -69,6 +66,7 @@ brew gsettings-desktop-schemas
 brew gtk+3
 brew gtk-doc
 brew harfbuzz
+brew hdf5
 brew hicolor-icon-theme
 brew icu4c
 brew ilmbase
@@ -148,7 +146,7 @@ brew metis
 brew mpfr
 brew mpfr@2
 brew mpich
-brew mpv
+brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew msgpack
 brew nasm
 brew neovim
@@ -157,7 +155,7 @@ brew nettle
 brew nkf
 brew ntfs-3g
 brew oniguruma
-brew open-mpi
+brew open-mpi --without-fortran
 brew opencore-amr
 brew openexr
 brew openh264
@@ -182,6 +180,7 @@ brew pstree
 brew pulseaudio
 brew python --with-tcl-tk --with-berkeley-db@4
 brew python3
+brew qt
 brew rakudo-star
 brew rarian
 brew rbenv-default-gems
@@ -208,6 +207,7 @@ brew sqlite
 brew sshfs
 brew streamripper
 brew swftools
+brew szip
 brew tcl-tk
 brew tesseract
 brew texi2html
@@ -254,12 +254,14 @@ tap homebrew/versions
 tap caskroom/cask
 cask soundflower
 cask wineskin-winery
+cask paraview
 cask virtualbox
 cask aquaterm
 cask appcleaner
 cask mysimbl
 cask transmission
 cask monolingual
+cask docker
 cask vagrant
 cask switch
 cask gimp
@@ -277,7 +279,7 @@ tap caskroom/versions
 tap argon/mas
 
 ## Direct install
-brew https://raw.githubusercontent.com/mrklein/openfoam-os-x/master/formulae/parmgridgen.rb
+brew parmgridgen
 
 tap rcmdnk/file
 brew brew-file --HEAD
