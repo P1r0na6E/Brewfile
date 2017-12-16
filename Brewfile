@@ -15,7 +15,7 @@ brew brew-cask-completion
 brew brew-gem
 brew cabextract
 brew cairo
-brew cgal
+brew cgal --with-eigen --with-lapack --with-qt
 brew chromaprint
 brew cloog
 brew cloog@0.15
@@ -27,6 +27,7 @@ brew docbook-xsl
 brew docutils
 brew doxygen
 brew ecj
+brew eigen
 brew faac
 brew fdk-aac
 brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack
@@ -110,6 +111,7 @@ brew liblqr
 brew libmodplug
 brew libmpc
 brew libmpc@0.8
+brew libmpdclient
 brew libogg
 brew libpng
 brew librsvg
@@ -143,6 +145,7 @@ brew makedepend
 brew mas
 brew mercurial
 brew metis
+brew mpc
 brew mpfr
 brew mpfr@2
 brew mpich
@@ -254,11 +257,9 @@ tap homebrew/versions
 tap caskroom/cask
 cask soundflower
 cask wineskin-winery
-cask paraview
 cask virtualbox
 cask aquaterm
 cask appcleaner
-cask mysimbl
 cask transmission
 cask monolingual
 cask docker
@@ -269,7 +270,6 @@ cask cyberduck
 cask silverlight
 cask vagrant-manager
 cask xquartz
-cask flashlight
 cask java
 cask flip4mac
 cask opera
@@ -290,6 +290,8 @@ brew shell-explorer
 
 # Cask applications
 cask adobe-reader
+cask flashlight
+cask mysimbl
 
 # App Store applications
 appstore 408981434 iMovie (10.1.8)
