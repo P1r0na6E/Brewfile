@@ -163,7 +163,7 @@ brew opencore-amr
 brew openexr
 brew openh264
 brew openjpeg
-brew openmotif --with-jpeg --with-libpng
+brew openmotif
 brew openssl
 brew openssl@1.1
 brew opus
