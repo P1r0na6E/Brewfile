@@ -71,7 +71,7 @@ brew hdf5
 brew hicolor-icon-theme
 brew icu4c
 brew ilmbase
-brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango --HEAD
+brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango
 brew imlib2 --with-libid3tag
 brew isl
 brew isl@0.11
