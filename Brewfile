@@ -109,6 +109,7 @@ brew libgphoto2
 brew libgsm
 brew libicns
 brew libid3tag
+brew libidn2
 brew liblqr
 brew libmodplug
 brew libmpc
