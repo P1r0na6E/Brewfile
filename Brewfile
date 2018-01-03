@@ -189,6 +189,7 @@ brew python3
 brew qt
 brew rakudo-star
 brew rarian
+brew rbenv
 brew rbenv-default-gems
 brew readline
 brew reattach-to-user-namespace
@@ -251,8 +252,6 @@ tap homebrew/completions
 tap homebrew/dupes
 
 tap homebrew/science
-brew parmetis
-brew scotch
 
 tap homebrew/versions
 
@@ -289,6 +288,10 @@ brew brew-file --HEAD
 tap rcmdnk/rcmdnkpac
 brew sentaku
 brew shell-explorer
+
+# Other Homebrew packages
+brew parmetis
+brew scotch
 
 # Cask applications
 cask adobe-reader
