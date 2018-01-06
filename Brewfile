@@ -287,7 +287,6 @@ tap rcmdnk/file
 brew brew-file --HEAD
 
 tap rcmdnk/rcmdnkpac
-brew sentaku
 brew shell-explorer
 
 # Other Homebrew packages
