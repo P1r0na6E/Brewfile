@@ -19,7 +19,6 @@ brew ccache
 brew cgal --with-eigen --with-lapack --with-qt
 brew chromaprint
 brew cloog
-brew cloog@0.15
 brew cmake
 brew coreutils --with-gmp
 brew dbus
@@ -76,7 +75,6 @@ brew ilmbase
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango
 brew imlib2 --with-libid3tag
 brew isl
-brew isl@0.11
 brew isl@0.12
 brew itstool
 brew jack
@@ -182,7 +180,6 @@ brew perl
 brew perl-build
 brew pixman
 brew pkg-config
-brew ppl@0.11
 brew pstree
 brew pulseaudio
 brew python --with-tcl-tk --with-berkeley-db@4
@@ -291,7 +288,10 @@ brew sentaku
 brew shell-explorer
 
 # Other Homebrew packages
+brew cloog@0.15
+brew isl@0.11
 brew parmetis
+brew ppl@0.11
 brew scotch
 
 # Cask applications
