@@ -55,7 +55,6 @@ brew git
 brew glib
 brew glide
 brew gmp
-brew gmp@4
 brew gnome-doc-utils
 brew gnu-sed --with-default-names
 brew gnu-tar --with-default-names
@@ -75,7 +74,6 @@ brew ilmbase
 brew imagemagick --with-fftw --with-hdri --with-opencl --with-x11 --with-fontconfig --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-openjpeg --with-pango
 brew imlib2 --with-libid3tag
 brew isl
-brew isl@0.12
 brew itstool
 brew jack
 brew jasper
@@ -111,7 +109,6 @@ brew libidn2
 brew liblqr
 brew libmodplug
 brew libmpc
-brew libmpc@0.8
 brew libmpdclient
 brew libogg
 brew libpng
@@ -148,7 +145,6 @@ brew mercurial
 brew metis
 brew mpc
 brew mpfr
-brew mpfr@2
 brew mpich
 brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
 brew msgpack
@@ -255,7 +251,6 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask soundflower
-cask wineskin-winery
 cask virtualbox
 cask aquaterm
 cask appcleaner
@@ -263,7 +258,6 @@ cask transmission
 cask monolingual
 cask docker
 cask vagrant
-cask switch
 cask gimp
 cask cyberduck
 cask silverlight
@@ -289,7 +283,11 @@ brew shell-explorer
 
 # Other Homebrew packages
 brew cloog@0.15
+brew gmp@4
 brew isl@0.11
+brew isl@0.12
+brew libmpc@0.8
+brew mpfr@2
 brew parmetis
 brew ppl@0.11
 brew scotch
