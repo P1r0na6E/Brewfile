@@ -156,6 +156,7 @@ brew nettle
 brew nkf
 brew ntfs-3g
 brew oniguruma
+brew open-mpi --with-cxx-bindings --with-java --with-mpi-thread-multiple --without-fortran
 brew opencore-amr
 brew openexr
 brew openh264
