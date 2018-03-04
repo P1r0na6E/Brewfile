@@ -178,8 +178,8 @@ brew pixman
 brew pkg-config
 brew pstree
 brew pulseaudio
-brew python --with-tcl-tk --with-berkeley-db@4
-brew python3
+brew python
+brew python@2
 brew qt
 brew rakudo-star
 brew rarian
@@ -259,6 +259,7 @@ cask monolingual
 cask docker
 cask vagrant
 cask gimp
+cask flash-player
 cask cyberduck
 cask silverlight
 cask vagrant-manager
@@ -294,8 +295,6 @@ brew scotch
 
 # Cask applications
 cask adobe-reader
-cask flashlight
-cask mysimbl
 
 # App Store applications
 appstore 408981434 iMovie (10.1.8)
