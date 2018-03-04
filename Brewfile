@@ -207,7 +207,6 @@ brew sphinx-doc
 brew sqlite
 brew sshfs
 brew streamripper
-brew swftools
 brew szip
 brew tcl-tk
 brew tesseract
