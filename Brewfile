@@ -292,7 +292,7 @@ brew parmetis
 brew ppl@0.11
 brew scotch
 
-# Cask applications
+# Other Cask applications
 cask adobe-reader
 
 # App Store applications
