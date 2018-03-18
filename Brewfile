@@ -42,6 +42,7 @@ brew fribidi
 brew fzf
 brew fzy
 brew game-music-emu
+brew gawk
 brew gcc --with-jit --with-nls
 brew gcc@4.9
 brew gd
