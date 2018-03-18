@@ -230,7 +230,7 @@ brew xpdf
 brew xvid
 brew xz
 brew yasm
-brew youtube-dl --HEAD
+brew youtube-dl
 brew yubico-piv-tool
 brew zenity
 brew zeromq
@@ -249,23 +249,15 @@ tap homebrew/science
 tap homebrew/versions
 
 tap caskroom/cask
-cask soundflower
-cask virtualbox
-cask aquaterm
 cask appcleaner
-cask transmission
-cask monolingual
-cask docker
-cask vagrant
-cask gimp
-cask flash-player
 cask cyberduck
+cask flash-player
+cask gimp
+cask monolingual
 cask silverlight
+cask transmission
 cask vagrant-manager
 cask xquartz
-cask java
-cask flip4mac
-cask opera
 
 tap caskroom/versions
 
@@ -294,6 +286,14 @@ brew scotch
 
 # Other Cask applications
 cask adobe-reader
+cask aquaterm
+cask docker
+cask flip4mac
+cask java
+cask opera
+cask soundflower
+cask vagrant
+cask virtualbox
 
 # App Store applications
 appstore 408981434 iMovie (10.1.8)
