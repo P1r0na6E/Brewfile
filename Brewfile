@@ -261,6 +261,7 @@ cask vagrant-manager
 cask xquartz
 
 tap caskroom/versions
+cask opera-developer
 
 tap argon/mas
 
