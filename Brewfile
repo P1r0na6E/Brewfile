@@ -292,7 +292,6 @@ cask aquaterm
 cask docker
 cask flip4mac
 cask java
-cask opera
 cask soundflower
 cask vagrant
 cask virtualbox
