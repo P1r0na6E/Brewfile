@@ -253,8 +253,8 @@ tap caskroom/cask
 cask appcleaner
 cask cyberduck
 cask flash-player
-cask gimp
-cask monolingual
+cask flip4mac
+cask java
 cask silverlight
 cask transmission
 cask vagrant-manager
@@ -290,8 +290,9 @@ brew scotch
 cask adobe-reader
 cask aquaterm
 cask docker
-cask flip4mac
-cask java
+cask flash-ppapi
+cask gimp
+cask monolingual
 cask soundflower
 cask vagrant
 cask virtualbox
