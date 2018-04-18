@@ -49,7 +49,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
-brew ghostscript --with-x11
+brew ghostscript
 brew ghq
 brew giflib
 brew git
@@ -157,7 +157,7 @@ brew nettle
 brew nkf
 brew ntfs-3g
 brew oniguruma
-brew open-mpi --with-cxx-bindings --with-java --with-mpi-thread-multiple --without-fortran
+brew open-mpi --with-cxx-bindings --with-mpi-thread-multiple --without-fortran
 brew opencore-amr
 brew openexr
 brew openh264
@@ -252,9 +252,9 @@ tap homebrew/versions
 tap caskroom/cask
 cask appcleaner
 cask docker
-cask flash-ppapi
-cask gimp
-cask monolingual
+cask flash-player
+cask flip4mac
+cask java
 cask silverlight
 cask transmission
 cask vagrant-manager
@@ -289,17 +289,18 @@ brew scotch
 # Other Cask applications
 cask adobe-reader
 cask aquaterm
-cask flash-player
-cask flip4mac
-cask java
+cask flash-npapi
+cask flash-ppapi
+cask gimp
+cask monolingual
 cask soundflower
 cask vagrant
 cask virtualbox
 
 # App Store applications
-appstore 408981434 iMovie (10.1.8)
-appstore 409183694 Keynote (7.3.1)
+appstore 408981434 iMovie (10.1.9)
+appstore 409183694 Keynote (8.0)
 appstore 518830108 Memory Cleaner (2.5)
-appstore 409203825 Numbers (4.3.1)
-appstore 409201541 Pages (6.3.1)
-appstore 497799835 Xcode (9.2)
+appstore 409203825 Numbers (5.0)
+appstore 409201541 Pages (7.0)
+appstore 497799835 Xcode (9.3)
