@@ -251,10 +251,10 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask appcleaner
-cask cyberduck
-cask flash-player
-cask flip4mac
-cask java
+cask docker
+cask flash-ppapi
+cask gimp
+cask monolingual
 cask silverlight
 cask transmission
 cask vagrant-manager
@@ -289,10 +289,9 @@ brew scotch
 # Other Cask applications
 cask adobe-reader
 cask aquaterm
-cask docker
-cask flash-ppapi
-cask gimp
-cask monolingual
+cask flash-player
+cask flip4mac
+cask java
 cask soundflower
 cask vagrant
 cask virtualbox
