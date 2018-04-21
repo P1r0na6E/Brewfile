@@ -220,7 +220,6 @@ brew uchardet
 brew unibilium
 brew unrar
 brew utf8proc
-brew vagrant-completion
 brew vapoursynth
 brew wavpack
 brew webp
@@ -257,7 +256,6 @@ cask flip4mac
 cask java
 cask silverlight
 cask transmission
-cask vagrant-manager
 cask xquartz
 
 tap caskroom/versions
@@ -294,7 +292,6 @@ cask flash-ppapi
 cask gimp
 cask monolingual
 cask soundflower
-cask vagrant
 cask virtualbox
 
 # App Store applications
