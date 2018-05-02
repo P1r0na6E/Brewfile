@@ -49,7 +49,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
-brew ghostscript
+brew ghostscript --with-x11
 brew ghq
 brew giflib
 brew git
