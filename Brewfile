@@ -263,9 +263,6 @@ cask opera-developer
 
 tap argon/mas
 
-## Direct install
-brew parmgridgen
-
 tap rcmdnk/file
 brew brew-file --HEAD
 
@@ -281,6 +278,7 @@ brew isl@0.12
 brew libmpc@0.8
 brew mpfr@2
 brew parmetis
+brew parmgridgen
 brew ppl@0.11
 brew scotch
 
@@ -296,8 +294,8 @@ cask virtualbox
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.0)
+appstore 409183694 Keynote (8.0.1)
 appstore 518830108 Memory Cleaner (2.5)
-appstore 409203825 Numbers (5.0)
-appstore 409201541 Pages (7.0)
+appstore 409203825 Numbers (5.0.1)
+appstore 409201541 Pages (7.0.1)
 appstore 497799835 Xcode (9.3)
