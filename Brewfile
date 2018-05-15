@@ -256,7 +256,7 @@ cask gimp
 cask monolingual
 cask silverlight
 cask transmission
-cask xquartz
+cask virtualbox
 
 tap caskroom/versions
 cask opera-developer
@@ -289,7 +289,8 @@ cask flash-player
 cask flip4mac
 cask java
 cask soundflower
-cask virtualbox
+cask ubersicht
+cask xquartz
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
