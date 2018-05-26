@@ -240,15 +240,7 @@ brew zpython
 brew zsh
 brew zsh-completions
 
-tap homebrew/completions
-
-tap homebrew/dupes
-
-tap homebrew/science
-
-tap homebrew/versions
-
-tap caskroom/cask
+tap homebrew/cask
 cask appcleaner
 cask flash-npapi
 cask flash-ppapi
@@ -258,8 +250,16 @@ cask silverlight
 cask transmission
 cask virtualbox
 
-tap caskroom/versions
+tap homebrew/cask-versions
 cask opera-developer
+
+tap homebrew/completions
+
+tap homebrew/dupes
+
+tap homebrew/science
+
+tap homebrew/versions
 
 tap argon/mas
 
