@@ -146,7 +146,7 @@ brew metis
 brew mpc
 brew mpfr
 brew mpich
-brew mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --with-x11
+brew mpv --with-bundle --with-jack --with-lgpl --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-uchardet --with-vapoursynth --with-pulseaudio --with-rubberband
 brew msgpack
 brew mujs
 brew nasm
@@ -300,4 +300,4 @@ appstore 409183694 Keynote (8.0.1)
 appstore 518830108 Memory Cleaner (2.5)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
-appstore 497799835 Xcode (9.3.1)
+appstore 497799835 Xcode (9.4)
