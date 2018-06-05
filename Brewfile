@@ -29,7 +29,7 @@ brew doxygen
 brew eigen
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-rubberband --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --HEAD
+brew ffmpeg --with-fdk-aac --with-libass --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-rtmpdump --with-two-lame --with-sdl2 --with-snappy --with-tools --with-webp --with-x265 --with-xz --with-zeromq --with-zimg --with-fontconfig --with-freetype --with-frei0r --with-libbluray --with-libbs2b --with-libcaca --with-libgsm --with-libmodplug --with-libvorbis --with-libvpx --with-opus --with-speex --with-theora --with-wavpack --with-srt --HEAD
 brew fftw
 brew flac
 brew flex
@@ -205,6 +205,7 @@ brew speex
 brew speexdsp
 brew sphinx-doc
 brew sqlite
+brew srt
 brew sshfs
 brew streamripper
 brew szip
@@ -297,7 +298,7 @@ cask xquartz
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.0.1)
-appstore 518830108 Memory Cleaner (2.5)
+appstore 518830108 Memory Cleaner (3.0)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
 appstore 497799835 Xcode (9.4)
