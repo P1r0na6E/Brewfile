@@ -260,6 +260,8 @@ tap homebrew/science
 
 tap homebrew/versions
 
+tap caskroom/cask
+
 tap argon/mas
 
 tap rcmdnk/file
