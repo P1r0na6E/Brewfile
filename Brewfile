@@ -240,16 +240,6 @@ brew zpython
 brew zsh
 brew zsh-completions
 
-tap homebrew/cask
-cask appcleaner
-cask flash-npapi
-cask flash-ppapi
-cask gimp
-cask monolingual
-cask silverlight
-cask transmission
-cask xquartz
-
 tap homebrew/cask-versions
 cask opera-developer
 
@@ -261,7 +251,14 @@ tap homebrew/science
 
 tap homebrew/versions
 
-tap caskroom/cask
+tap homebrew/cask
+cask appcleaner
+cask flash-npapi
+cask flash-ppapi
+cask gimp
+cask monolingual
+cask soundflower
+cask ubersicht
 
 tap argon/mas
 
@@ -291,8 +288,9 @@ cask aquaterm
 cask flash-player
 cask flip4mac
 cask java
-cask soundflower
-cask ubersicht
+cask silverlight
+cask transmission
+cask xquartz
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
