@@ -238,7 +238,7 @@ brew zimg
 brew zplug --with-zsh
 brew zpython
 brew zsh
-brew zsh-completions
+brew zsh-completions --HEAD
 
 tap homebrew/cask-versions
 cask opera-developer
