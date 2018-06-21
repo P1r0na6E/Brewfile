@@ -241,7 +241,7 @@ brew zsh
 brew zsh-completions --HEAD
 
 tap homebrew/cask-versions
-cask opera-developer
+cask vivaldi-snapshot
 
 tap homebrew/completions
 
@@ -294,8 +294,8 @@ cask xquartz
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.0.1)
+appstore 409183694 Keynote (8.1)
 appstore 518830108 Memory Cleaner (3.0)
-appstore 409203825 Numbers (5.0.1)
-appstore 409201541 Pages (7.0.1)
-appstore 497799835 Xcode (9.4)
+appstore 409203825 Numbers (5.1)
+appstore 409201541 Pages (7.1)
+appstore 497799835 Xcode (9.4.1)
