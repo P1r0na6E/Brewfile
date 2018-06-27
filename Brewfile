@@ -241,7 +241,6 @@ brew zsh
 brew zsh-completions --HEAD
 
 tap homebrew/cask-versions
-cask vivaldi-snapshot
 
 tap homebrew/completions
 
