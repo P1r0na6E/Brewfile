@@ -132,7 +132,7 @@ brew libvpx
 brew libvterm
 brew libwmf
 brew libxml2
-brew libyaml --universal
+brew libyaml
 brew little-cms
 brew little-cms2
 brew lua
@@ -256,8 +256,9 @@ cask flash-npapi
 cask flash-ppapi
 cask gimp
 cask monolingual
-cask soundflower
-cask ubersicht
+cask silverlight
+cask transmission
+cask xquartz
 
 tap argon/mas
 
@@ -287,9 +288,9 @@ cask aquaterm
 cask flash-player
 cask flip4mac
 cask java
-cask silverlight
-cask transmission
-cask xquartz
+cask opera
+cask soundflower
+cask ubersicht
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
