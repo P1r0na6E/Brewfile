@@ -295,7 +295,7 @@ cask ubersicht
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.1)
-appstore 518830108 Memory Cleaner (3.0)
+appstore 518830108 Memory Cleaner (3.0.1)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
 appstore 497799835 Xcode (9.4.1)
