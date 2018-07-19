@@ -276,11 +276,7 @@ brew gmp@4
 brew isl@0.11
 brew isl@0.12
 brew libmpc@0.8
-brew mpfr@2
-brew parmetis
-brew parmgridgen
 brew ppl@0.11
-brew scotch
 
 # Other Cask applications
 cask adobe-reader
