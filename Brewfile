@@ -212,6 +212,7 @@ brew sqlite
 brew srt
 brew sshfs
 brew streamripper
+brew swftools
 brew szip
 brew tcl-tk
 brew tesseract
