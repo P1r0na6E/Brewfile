@@ -148,7 +148,7 @@ brew metis
 brew mpc
 brew mpfr
 brew mpich
-brew mpv --with-bundle --with-lgpl --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth --HEAD
+brew mpv
 brew msgpack
 brew mujs
 brew nasm
