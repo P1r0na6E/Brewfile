@@ -290,7 +290,7 @@ cask aquaterm
 cask flash-player
 cask flip4mac
 cask java
-cask opera
+cask onyx
 cask soundflower
 cask ubersicht
 
