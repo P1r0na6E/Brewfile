@@ -13,6 +13,7 @@ brew bison
 brew boost --without-single
 brew brew-cask-completion
 brew brew-gem
+brew c-ares
 brew cabextract
 brew cairo
 brew ccache
@@ -21,6 +22,7 @@ brew chromaprint
 brew cloog
 brew cmake
 brew coreutils --with-gmp
+brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
 brew dbus
 brew docbook
 brew docbook-xsl
@@ -77,6 +79,7 @@ brew imlib2 --with-libid3tag
 brew isl
 brew itstool
 brew jack
+brew jansson
 brew jasper
 brew jemalloc
 brew jpeg
@@ -98,6 +101,7 @@ brew libdvdnav
 brew libdvdread
 brew libebur128
 brew libepoxy
+brew libev
 brew libevent
 brew libffi
 brew libgcrypt
@@ -109,6 +113,7 @@ brew libid3tag
 brew libidn2
 brew libkate --with-docs --with-examples --with-wxmac
 brew liblqr
+brew libmetalink
 brew libmodplug
 brew libmpc
 brew libmpdclient
@@ -119,6 +124,7 @@ brew libsamplerate
 brew libsndfile
 brew libsoxr
 brew libssh
+brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -155,6 +161,7 @@ brew nasm
 brew neovim
 brew net-snmp
 brew nettle
+brew nghttp2
 brew nkf
 brew ntfs-3g
 brew oggz
