@@ -7,6 +7,9 @@ brew ant
 brew atk
 brew autoconf
 brew automake
+brew bash
+brew bash-completion
+brew bash-completion@2
 brew berkeley-db
 brew berkeley-db@4
 brew bison
@@ -16,13 +19,15 @@ brew brew-gem
 brew c-ares
 brew cabextract
 brew cairo
+brew camlp5
 brew ccache
 brew cgal --with-eigen --with-lapack --with-qt
 brew chromaprint
 brew cloog
 brew cmake
+brew coq
 brew coreutils --with-gmp
-brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
+brew curl --with-rtmpdump --with-libssh2 --with-c-ares --with-gssapi --with-libmetalink --with-nghttp2
 brew dbus
 brew docbook
 brew docbook-xsl
@@ -86,6 +91,7 @@ brew jpeg
 brew jq
 brew json-c
 brew lame
+brew launchctl-completion
 brew leptonica
 brew lhasa
 brew libaacs
@@ -149,6 +155,7 @@ brew luajit
 brew m4
 brew makedepend
 brew mas
+brew math-comp
 brew mercurial
 brew metis
 brew mpc
@@ -164,6 +171,8 @@ brew nettle
 brew nghttp2
 brew nkf
 brew ntfs-3g
+brew ocaml
+brew ocaml-num
 brew oggz
 brew oniguruma
 brew open-mpi --with-mpi-thread-multiple --with-cxx-bindings --without-fortran
@@ -290,6 +299,9 @@ brew isl@0.11
 brew isl@0.12
 brew libmpc@0.8
 brew ppl@0.11
+
+# Other pip packages
+pip completion
 
 # Other Cask applications
 cask adobe-reader
